@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Engineering PhD student at the University of Memphis.
+I am a Computer Engineering PhD candidate at the University of Memphis.
 
