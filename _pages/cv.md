@@ -35,33 +35,33 @@ Skills
 Honors & Awards
 ======
 
+* **Participating**, International Sick Lidar competition, StreamEye: Multi-UAS Visual Stream Assessment, 2025-26
 *  **Graduate Herff Fellowship**, Herff College of Engineering (Coordinator: Dr. R. Meier) University of Memphis, 2022‑25
 *  **2nd Place**, Electrical and Computer Engineering Department’s Poster Competition University of Memphis, 2022
 *  **Grant Awarded**, Presidential Scientific and Technological Vice‑Presidency, Grant for Design an autonomous quadcopter with auto‑charge to increase flight time for inspection of transmission lines, Amirkabir University, 2017
-*  **Participated**, International RoboCupSenior Soccer Small Size League Leipzig, Germany, 2016
+*  **Participated**, International RoboCupSenior Soccer Small Size League, 2014-2016
 *  **Participated**, International AUTCUPSenior Mirosot Robots Amirkabir University, 2016
-*  **Participated**, International RoboCup IranOpenSenior Soccer Small Size League Azad University, 2015‑16
-*  **Participated**, International RoboCupSenior Soccer Small Size League Hefei, China, 2015
-*  **Participated**, International RoboCup Senior Soccer Small Size League Jao Pessoa, Brazil, 2014
-*  **Team leader**, International RoboCup IranOpen Junior Rescue Robots Azad University, 2014
+*  **Participated**, National RoboCup OpenSenior Soccer Small Size League Azad University, 2015‑16
+*  **Team leader**, National RoboCup Open Junior Rescue Robots Azad University, 2014
 *  **Privileged Entry**, one of the top 10 entry students in the Electrical Engineering Program Amirkabir University, 2013
-*  **Ranked 357** (among top 0.2%), The nationwide university entrance exam Sanjesh, Iran, 2013
-*  **3rd Place**, International RoboCup IranOpen Junior Soccer 2*2 lightweight Robots Azad University, 2012
-*  **4th Place**, International RoboCup Junior Soccer 2*2 Robots: in both Individual and Super‑team Leagues with poster and oral presentation, Istanbul, Turkey, 2011
-*  **1st Place**, Highly prestigious in Iran.NationalKhwarizmiCompetition Junior Soccer Robots, Amirkabir University, 2010
+*  **Ranked 357** (among top 0.2%), The nationwide university entrance exam Sanjesh, 2013
+*  **3rd Place**, National RoboCup Open Junior Soccer 2*2 lightweight Robots Azad University, 2012
+*  **4th Place**, International RoboCup Junior Soccer 2*2 Robots: in both Individual and Super‑team Leagues with poster and oral presentation, 2011
+*  **1st Place**, Highly prestigious National KhwarizmiCompetition Junior Soccer Robots, Amirkabir University, 2010
 
 
 Licences & Certifications
 ======
 
+*  **Graduate Certificate in DataScience**, University of Memphis, 2021-2024
 *  **312/340**, Recipient of the Graduate Record Examinations ( GRE ): Quantitative **168 /170**, Verbal 144/170, Writing 4 / 7, 2019
 *  **Referee**, NODET Young Researchers’ Festival, Engineering, and Technology Section Tehran, Iran, 2018
 *  **Organization Committee and Referee**, Nationwide FarzCup Robotic Competition. Tehran, Iran, 2012‑14
-*  **Completed**, Computational Neuroscience Summer School Neuromatch, 2020
-*  **Completed**, Reinforcement Learning Winter School Loop Academy, 2019
-*  **Workshop Instructor**, Getting Started with Python Sharif University, 2021
-*  **Workshop Instructor**, Getting Started with MATLAB AL Zahra University, 2021
-*  **Workshop Instructor**, FPGAs and Verilog Amirkabir University, 2018–19
+*  **Completed**, Computational Neuroscience Summer School, Neuromatch Academy, 2020
+*  **Completed**, Reinforcement Learning Winter School, Loop Academy, 2019
+*  **Workshop Instructor**, Getting Started with Python, Sharif University, 2021
+*  **Workshop Instructor**, Getting Started with MATLAB, ALZahra University, 2021
+*  **Workshop Instructor**, FPGAs and Verilog, Amirkabir University, 2018–19
 
 
 Experience
@@ -194,16 +194,19 @@ Academic Lectures and Projects
 References
 ======
 
-1. Dr. F. Abdollahi, Associate Professor at the Department of Electrical Engineering, Control, Amirkabir
-University of Technology (Iran): f_abdollahiaut.ac.ir
-2. Dr. R. Meier, Associate Professor & Graduate Coordinator, Herff College of Engineering; Civil Engineering,
+1. Dr E. Jacobs, Professor, Electrical Computer Engineering, University of Memphis: eljacobs@memphis.edu
+2. Dr A. Ramirez, Research Assistant Professor, Electrical and Computer Engineering, University of Memphis: ajramirz@memphis.edu
+3. Dr A. Robinson, Associate Professor, Electrical and Computer Engineering, University of Memphis: alrobins@memphis.edu
+4. Dr M. Davoodi, Assistant Professor, Electrical and Computer Engineering, University of Memphis: mdavoodi@memphis.edu
+5. Dr. F. Abdollahi, Associate Professor, Electrical Engineering, Amirkabir University of Technology: f_abdollahiaut.ac.ir
+6. Dr. R. Meier, Associate Professor & former Graduate Coordinator, Herff College of Engineering; Civil Engineering,
 University of Memphis: rwmeier@memphis.edu
-3. Dr. C. Van, founder of the MakeScope through the University of Memphis and Epicenter partnership
+7. Dr. C. Van, founder of the MakeScope through the University of Memphis and Epicenter partnership
 patents2Products: van.congtuanson@gmail.com
-4. Prof. S. Ivey, Associate Dean for Research, Herff College of Engineering; Civil Engineering, University of
+8. Prof. S. Ivey, Associate Dean for Research, Herff College of Engineering; Civil Engineering, University of
 Memphis: ssalyers@memphis.edu
-5. Dr. M. Khosravi, Assistant Professor at the Department of Electrical Engineering, Control, Amirkabir
-University of Technology (Iran): m.a.khosravi@aut.ac.ir
-6. Dr. Kh. Borhani, Assistant Professor in Cognitive Neuroscience, Social and cognitive neuroscience group
-leader, Institute for Cognitive and Brain Sciences, Shahid Beheshti University (Iran): kh_borhani@sbu.ac.ir
+9. Dr. M. Khosravi, Assistant Professor at the Department of Electrical Engineering, Control, Amirkabir
+University of Technology: m.a.khosravi@aut.ac.ir
+10. Dr. Kh. Borhani, Assistant Professor in Cognitive Neuroscience, Social and cognitive neuroscience group
+leader, Institute for Cognitive and Brain Sciences, Shahid Beheshti University: kh_borhani@sbu.ac.ir
 
