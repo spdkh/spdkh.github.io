@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "S Parisa Daj / spdkh"
-title_separator          : "-"
-name                     : &name "S Parisa Daj"
-description              : &description "personal website"
+title                    : "S. Parisa Dajkhosh"
+title_separator          : "|"
+name                     : &name "S. Parisa Dajkhosh"
+description              : &description "PhD candidate in Electrical & Computer Engineering at the University of Memphis. Deep learning for computational imaging, vision-based UAV navigation, and physics-informed neural networks."
 url                      : https://spdkh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "spdkh/spdkh.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "S. Parisa Daj."
-  avatar           : "congfu.png"
-  bio              : "Computer Engineering PhD student, AI nerd"
-  location         : "Memphis"
-  employer         :
+  name             : "S. Parisa Dajkhosh"
+  avatar           : "profile.png"
+  bio              : "PhD candidate in ECE at the University of Memphis. I build deep-learning systems for computational imaging, vision-based UAV navigation, and physics-informed image reconstruction. Open to postdoc and industry R&D roles starting late 2026."
+  location         : "Memphis, TN, USA"
+  employer         : "University of Memphis"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=u7FMXL4AAAAJ&hl=en"
-  email            :
+  email            : "s.dajkhosh@memphis.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://www.youtube.com/channel/UCYMiReWMzj4QI3zbj4R3G6g"
+  twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCYMiReWMzj4QI3zbj4R3G6g"
   wikipedia        :
 
 

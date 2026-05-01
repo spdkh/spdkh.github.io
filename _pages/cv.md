@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,203 +10,229 @@ redirect_from:
 {% include base_path %}
 <style>body {text-align: justify}</style>
 
-Personal Profile
+A downloadable PDF of this CV is available [here](/files/CV_Parisa_Dajkhosh.pdf). Last updated: April 2026. GPA: **3.98**.
+
+Snapshot
 ======
-An international student and Graduate Assistant in Computer Engineering at the University of Memphis, conducting image reconstruction using DNNs. Professional Python programmer for 6+ years, Programming experience since 2008 including C/C++, MATLAB, etc., 7+ years programming/robotics teacher, 9+ years of robotics experience in national & international competitions and R&D. Seeking an opportunity to enhance excellent programming skills, increase knowledge and be able to facilitate and support others.
+
+PhD candidate in Electrical & Computer Engineering at the **University of Memphis** (expected 2027). My Ph.D. research focuses on UAV perception, navigation, and geo-localization for stream assessment and environmental monitoring including multimodal aerial perception, and field applications. Furthermore, my M.Sc. focused on physics-informed deep learning, image reconstruction & denoising, unrolled optimization, generative models for inverse problems in computational imaging research lab (CIRL, 2021–2023). Published/presented at **MDPI - Remote Sensing**, **SPIE**, and **OPTICA**. Open to **industry R&D, research scientist, and postdoc** roles starting late 2027.
+
+
+* **Experience:** 5 yrs graduate research (UoM CIRL & Jacobs Lab) · 1 yr industry R&D (Part AI) · 8+ yrs teaching programming & robotics · 9+ yrs international robotics competitions and achievements.
+* **Recognition:** Herff Fellowship, fully funded 5 consecutive semesters (2022–25) · 2nd place, EECE Poster Competition (2022) · Grant for autonomous UAV transmission-line inspection (2017) · Top 0.2% (rank 609), national entrance exam.
+* **Stack:** Python (Ultralytics, PyTorch, TensorFlow, Keras, Scipy, NumPy, Scikit-learn, OpenCV), MATLAB/Simulink, C/C++, Verilog, FPGA, embedded systems, Linux, Git, LaTeX, nixOS, Electrical Circuit Design.
 
 
 Education
 ======
-* B.S. in Electrical Engineering, Control, Amirkabir University of Technology, Sep. 2013 ‑ Feb. 2018
-* M.S. in Electrical and Computer Engineering, Computer, University of Memphis, Aug 2021 ‑ Aug 2023
-* Ph.D in Electrical and Computer Engineering, University of Memphis, Aug 2023 ‑ Aug 2026 (expected)
+
+* **Ph.D., Electrical & Computer Engineering**, University of Memphis, Memphis, TN. *Aug 2023 – 2027 (expected).* Fully funded with HERFF Graduate Fellowship. GPA: **3.98/4.00**. Advisor: Dr. E. Jacobs. Topic: *TerrAInav: Vision-AI-Based UAV Navigation, SLAM, and Geo-Localization for environmental monitoring.*
+  * **Selected courses:** Linear Systems Analysis, Bayesian Inference, Fundamentals of Data Science.
+
+* **M.Sc., Electrical & Computer Engineering**, University of Memphis, Memphis, TN. *Aug 2021 – Jul 2023.* Fully funded. GPA: **3.96/4.00**. Advisor: Dr. C. Preza. Research topic: *Image reconstruction for Structured Illumination Microscopy using physics-guided DNNs (UPIGAN, Unrolled Physics-Informed GAN).*
+  * **Selected courses:** Neural Networks, Random Signals and Noise, Image Processing, Data Mining, Multimedia Systems, Artificial Intelligence, Advanced Machine Learning.
+
+* **B.Sc., Electrical Engineering (Concentration in Control Engineering)**, Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran. *Sep 2013 – Feb 2018.* Privileged Entry (one of the top-10 entry students in the program). Thesis: *Indoor Autonomous Landing of a Quadrotor with Video Processing.* Advisor: Dr. F. Abdollahi.
+  * **Selected courses:** Linear Algebra, Advanced Programming, Computational Intelligence, Control of Linear Systems, Digital Control, Modern Control, Signals & Systems, Computer Architecture.
+
+<!-- * **Diploma, Mathematics & Physics**, Farzanegan 1 School, NODET (National Organization for Development of Exceptional Talents), Tehran, Iran. *Sep 2006 – Jul 2013.* GPA: 4.0/4.0. Ranked **609 (top 0.2%)** in the Iranian nationwide university entrance exam. -->
+
 
 
 Skills
 ======
 
-* **Programming:** Python (Numpy, Pandas, TensorFlow, Scikit Learn, etc.), Matlab/Simulink, C/C++
-* **Hardware:** FPGA, Arduino, Raspberry Pi, Micro‑controllers, various embedded boards
-* **Tools:** Git, LATEX, Linux, IoT, DNNs, Image Reconstruction, Robotics, Embedded Systems.
-* **Soft Skills:**  Adaptability, Time Management, Teamwork, Problem‑solving, Leadership.
-* **Top 5 Strengths:** Ideation, Restorative, Analytical, Input, Responsibility
+* **Programming languages:** Python (Ultralytics, PyTorch, Torch-Vision, TensorFlow, NumPy, Pandas, SciPy, Scikit-learn, OpenCV, Keras), MATLAB/Simulink, C, C++, Verilog, Bash, Arduino, Basic, Qt.
+* **Deep learning:** GANs, physics-informed networks, unrolled optimization, attention mechanisms, super-resolution, image-to-image translation, multimodal models.
+* **Computer vision & imaging:** feature extraction, object detection, OpenCV, ARUCO, optical-transfer-function modeling, structured illumination microscopy, camera calibration, geo-localization.
+* **Hardware & embedded:** Raspberry Pi, NVIDIA Jetson, Khadas, Pixhawk, Erle Brain, FPGA (Xilinx ISE), CPLDs, ARM Cortex-M4 (STM32, Keil), AVR (CodeVisionAVR), KiCad, Altium Designer.
+* **Tools & DevOps:** Git, nixOS, Docker, Linux, LaTeX, LabVIEW, Scrum/Kanban.
+* **Soft skills:** adaptability, time management, teamwork, problem-solving, leadership.
+<!-- * **Top-5 CliftonStrengths:** Ideation, Restorative, Analytical, Input, Responsibility. -->
 
 
-Honors & Awards
+
+Journal Publications
 ======
 
-* **Participating**, International Sick Lidar competition, StreamEye: Multi-UAS Visual Stream Assessment, 2025-26
-*  **Graduate Herff Fellowship**, Herff College of Engineering (Coordinator: Dr. R. Meier) University of Memphis, 2022‑25
-*  **2nd Place**, Electrical and Computer Engineering Department’s Poster Competition University of Memphis, 2022
-*  **Grant Awarded**, Presidential Scientific and Technological Vice‑Presidency, Grant for Design an autonomous quadcopter with auto‑charge to increase flight time for inspection of transmission lines, Amirkabir University, 2017
-*  **Participated**, International RoboCupSenior Soccer Small Size League, 2014-2016
-*  **Participated**, International AUTCUPSenior Mirosot Robots Amirkabir University, 2016
-*  **Participated**, National RoboCup OpenSenior Soccer Small Size League Azad University, 2015‑16
-*  **Team leader**, National RoboCup Open Junior Rescue Robots Azad University, 2014
-*  **Privileged Entry**, one of the top 10 entry students in the Electrical Engineering Program Amirkabir University, 2013
-*  **Ranked 357** (among top 0.2%), The nationwide university entrance exam Sanjesh, 2013
-*  **3rd Place**, National RoboCup Open Junior Soccer 2*2 lightweight Robots Azad University, 2012
-*  **4th Place**, International RoboCup Junior Soccer 2*2 Robots: in both Individual and Super‑team Leagues with poster and oral presentation, 2011
-*  **1st Place**, Highly prestigious National KhwarizmiCompetition Junior Soccer Robots, Amirkabir University, 2010
+A complete list with abstracts and links is on the [Publications page](/publications/).
 
 
-Licences & Certifications
+* **S. P. Dajkhosh**, O. Furxhi, P. M. Le, E. L. Jacobs. *"TerrAInav Sim: An Open-Source Simulation of UAV Aerial Imaging from Satellite Data."* **Remote Sensing, MDPI**, 2025.
+* **S. P. Dajkhosh**, L. D. Poloni, M. Davoodi, X. Huang, E. L. Jacobs, *"StreamEye: UAV-Based Real-Time Environmental Stream Assessment"* Manuscript in preparation.
+* **S. P. Dajkhosh**, L. D. Poloni, X. Huang, E. Jacobs. *"TerrAInaVision: A Comprehensive Benchmark of Aerial Imaging Pipelines for UAV-Based Environmental Stream Assessment"* Manuscript in preparation.
+* **S. P. Dajkhosh**, O. Furxhi, C. K. Renshaw, E. Jacobs. *"TerrAInav Mapper: Aerial Imaging Feature Extraction Using Siamese Networks."* Manuscript in preparation.
+* A. Gimeno-Gomez, **S. P. Dajkhosh**, M. S. H. Younis, C. T. S. Van, C. Preza, J. C. Barreiro-Hervas, G. Saavedra. *"Management of the axial modulation of the illumination pattern in structured illumination microscopy using an extended illumination source."* **Optics Express**, 2023.
+
+
+Proceeding Publications and Technical Reports
+======
+* presenter, **S. P. Dajkhosh**, P. M. Le, L. D. Poloni, J. A. Tuffaha, E. L. Jacobs. *"Vision-Based Uncrewed Aerial System for Real-Time Stream Assessment and Environmental Monitoring."* **SPIE Defense + Security**, National Harbor, MD, April 2026.
+* presenter, **S. P. Dajkhosh**, D. G. Ortega, M. Davoodi, E. L. Jacobs. *"UAV Navigation for Stream Data Collection Through Tree Canopies Using Dynamic Motion Primitives."* **SPIE Defense + Commercial Sensing**, Orlando, FL, April 2025.
+* presenter, **S. P. Dajkhosh**, O. Furxhi, C. K. Renshaw, E. L. Jacobs. *"Aerial Image Feature Mapping using Deep Neural Networks."* **SPIE Defense + Commercial Sensing**, National Harbor, MD, May 2024.
+* presenter, **S. P. Dajkhosh**, M. Hossain, C. Preza. *"USR: Unrolled Super-Resolution with Deep Priors for Structured Illumination Microscopy."* **OPTICA**, Boston, MA, Aug 2023.
+* presenter, **S. P. Dajkhosh**, M. Hossain, C. Preza. *"Image Reconstruction for Structured Illumination Microscopy using an Unrolled GAN."* **SPIE Defense + Commercial Sensing**, Orlando, FL, May 2023.
+* Rahimi, M.M., Shirazi, M.M., S.P. Dajkhosh, et al. "Parsian Extended
+  Team Description," Team Description Paper (TDP), RoboCup 2016, Leipzig, Germany.
+  SSL Senior League. (Peer-reviewed).
+* Zolanvari, A., Shirazi, M.M., S.P. Dajkhosh, et al. "Parsian Team Description,"
+  Team Description Paper (TDP), RoboCup 2015, Hefei, China. SSL Senior League.
+  (Peer-reviewed).
+<!-- * A. Saeidi, M.H. Malmir, M.M. Shirazi, et al., Dajkhosh, S.P. "AUT-Parsian Team
+  Description," Team Description Paper (TDP), RoboCup 2014, João Pessoa, Brazil.
+  SSL Senior League. (Peer-reviewed). -->
+
+
+Research Experience
 ======
 
-*  **Graduate Certificate in DataScience**, University of Memphis, 2021-2024
-*  **312/340**, Recipient of the Graduate Record Examinations ( GRE ): Quantitative **168 /170**, Verbal 144/170, Writing 4 / 7, 2019
-*  **Referee**, NODET Young Researchers’ Festival, Engineering, and Technology Section Tehran, Iran, 2018
-*  **Organization Committee and Referee**, Nationwide FarzCup Robotic Competition. Tehran, Iran, 2012‑14
-*  **Completed**, Computational Neuroscience Summer School, Neuromatch Academy, 2020
-*  **Completed**, Reinforcement Learning Winter School, Loop Academy, 2019
-*  **Workshop Instructor**, Getting Started with Python, Sharif University, 2021
-*  **Workshop Instructor**, Getting Started with MATLAB, ALZahra University, 2021
-*  **Workshop Instructor**, FPGAs and Verilog, Amirkabir University, 2018–19
+* **Graduate Assistant, Doctoral Researcher**, *Remote Sensing Lab (RSL)*, University of Memphis, *Aug 2023 – present*
+  * **TerrAInav (Vision-Based Navigation, and Geolocalization):** multimodal field-applied research on UAVs including path planning with **Dynamic Movement Primitives (DMPs)**, SLAM, real-time water-body mapping, and multi-sensor aerial data collection. As well as image registration with UAV-captured aerial imagery using deep learning; and geo-localization for visual stream assessment and environmental monitoring.
+  * **Virtually Integrated Program (VIP) mentor (continual):** mentored undergraduates individually and in teams of 4; research methodology, paper reading & writing, programming in Python and MATLAB. In collaboration with **Dr. S. Ivey** and **Dr. E. Jacobs**.
+  * **Stack:** Python (Ultralytics, PyTorch, Torch-Vision, TensorFlow, OpenCV, etc), MATLAB, LaTeX, nixOS, embedded systems, electrical circuit design.
+
+* **Graduate Assistant, Master's Researcher**, *Computational Imaging Research Lab (CIRL)*, University of Memphis, *Aug 2021 – Jul 2023*
+  * Built **UPIGAN**, an unrolled, physics-informed GAN that bakes the SIM forward model and OTF into the network for 3D super-resolution microscopy. Outperformed baseline channel-attention GANs on real SIM datasets. Led a sub-team of three in collaboration with Dr. C. Van.
+  * Using MATLAB, simulated new enhancements in the optical transfer functions for wide-field, tunable, and 3-Wave SIM microscope geometries, in a team of 5 with the **University of Valencia**.
+  * **Stack:** Python (TensorFlow, OpenCV, etc), physics-guided deep learning, 3D image super-resolution, MATLAB.
+
+* **Research Collaborator**, *University of New South Wales*, Sydney, Australia, *Aug 2020 – Jun 2021*
+  * Statistical analysis of a genomics dataset under Dr. Alinajad-Rokni: hypergeometric, chi-square, Fisher exact, and z-score specificity tests; hierarchical clustering in Python to identify tissue-specific and disease-causative genes.
+  * **Stack:** Python (NumPy, Pandas, Scikit-learn), MATLAB.
+
+* **Research Collaborator**, *Institute for Cognitive & Brain Sciences, Shahid Beheshti University*, Tehran, *Feb 2018 – Aug 2019*
+  * Built a Python-based human–computer interface for **Cyber-ball** and **Iowa Gambling Task** experiments under Dr. Borhani, studying the effect of social rejection on risk-taking.
+
+* **Undergraduate Research Assistant**, *Control of Multi-Vehicle Systems (CMVS) Lab*, Amirkabir University of Technology, *Jan 2016 – Aug 2019*
+  * Thesis project (A+): autonomous indoor landing of a quad-copter on a marker pad using video processing on a Raspberry Pi (OpenCV + ARUCO).
+  * Designed independent PID controllers for each quad-copter degree of freedom; bridged C++ vision code to MATLAB/Simulink for control synthesis.
+
+* **Undergraduate Research Assistant**, *Parsian Robotics Lab*, Amirkabir University of Technology, *Jan 2013 – Jan 2016*
+  * **Small Size Soccer League:** designed a 16.8 V → 200 V boost DC-DC converter, two-way NRF wireless link, and implemented a soft-core microprocessor on FPGA in Verilog.
+  * **MIROSOT Soccer League:** designed FPGA processor board and motor-controller board.
+  * **Quad-copter internship:** designed a fully integrated autonomous flight board (processor, motor drivers, IMU, NRF link, vision).
+  * **Advisor:** Dr. M. Khosravi.
 
 
-Experience
+Industry Experience
 ======
 
-* **University of Memphis**
-
-  * **Doctoral Researcher**, Aug. 2023‑present
-    * Research Topic: Visual Based Navigation with UAV captured aerial imagery Using Deep Learning.
-    * Supervisor: Dr. Jacobs
-    * **Skills:** Python, MATLAB, Multimodal Image Translation, DNN, Linux, Git.
-
-  * **Graduate Research Assistant** 
-    * Thesis Title: Structured Illumination Microscope Image reconstruction using unrolled physics-informed generative adversarial network (UPIGAN)
-    * Research Topic: Working on the development of physics-guided image restoration methods using deep learning approaches in 3D microscopy.
-    * Supervisor: Dr. Preza
-    * Collaborators: Dr. Ivey, Dr. Saavedra, Dr. Robinson, Dr. Venogupal, Dr. Van.
-  
-    * **Skills:** Python, MATLAB, GAN, Physics-Guided DNN, Image-Reconstruction, LATEX, Optical Design, Git.
-  
-
-* **Neuromatch Academy Summer School**
-  * **Teacher Assistant**, July 2021 ‑ Aug. 2021
-    * Topics: Computational Neuroscience & Deep Learning.
+* **Lead Robotics & API Developer**, *Part AI Research Center*, Tehran, *Sep 2020 – Aug 2021*
+  * **Robotics:** designed and built cooperative agricultural quad-copters from scratch, **leading a team of 4**. Collaborated with the project manager on task definition, purchasing decisions, and team priorities.
+  * **Embedded systems:** implemented **YOLO** and **YOLO-Lite** object-detection algorithms on Pixhawk Cube; brought up Khadas and NVIDIA Jetson dev kits; led cross-team consultations to align embedded-systems integration with company-wide systems.
+  * **AI software:** authored Python AI APIs for **Microsoft AirSim** flight simulator; designed the software architecture and class diagrams for the simulation API surface.
+  * **Process:** ran the team's Kanban + Scrum board on GitLab.
+  * **Stack:** Sensor fusion, Python APIs, MATLAB, Git, Arduino, embedded systems, Docker, IoT, robotics, Linux, Scrum, Kanban.
 
 
-* **Part AI Research Center**
-  * **Robotics Developer**, Sep. 2020‑Aug. 2021
-    * Robotics: Designed, and built cooperative farming quad‑copters from scratch.
-    * Embedded Systems: Started working with different embedded systems such as Khadas products and NVIDIA development boards.
-    * AI: Implemented Object Detection algorithms including YOLO and YOLO LITE on various embedded systems.
-    * Software: Wrote AI Python APIs for Microsoft AirSim Flight Simulator.
+Teaching & Mentoring
+======
 
-    * **Skills:** Sensor Fusion, Python APIs, MATLAB, Git, Arduino, Embedded Systems, Docker, IOT, Robotics,
-      Linux, Scrum, Kanban.
-  
+A complete list is on the [Teaching page](/teaching/).
 
-* **National Organization for Development of Exceptional Talents**
-  * **Middle School Teacher**, July 2013 ‑ May 2021
-    * Computer Programming: Taught programming. Valuable projects completed and sent to different national and international competitions.
-    * Robotics Teacher: Taught basics of analog and digital circuits. Taught to build different circuits and robots from scratch. Using C in CodeVision AVR to program robots. Students participated in different national competitions. 
-
-    * **Skills:** Algorithm, Flowchart, Graph Theory, QT, C, C++, Python, Small Basic, Scratch, Circuit Design, Microcontrollers.
+* **Teaching Faculty, EECE 2207: Engineering Mathematics Applications**, University of Memphis, *Sep 2024 – May 2025.* Taught Introduction to MATLAB and its applications in engineering math.
+* **Mentor, Virtually Integrated Program**, University of Memphis, *Sep 2022 – present.* Mentor undergraduates on research methodology, paper reading & writing, and Python/MATLAB coding.
+* **Teaching Assistant, Neuromatch Academy**, *Jul – Aug 2021.* TA'd both the **Computational Neuroscience** and **Deep Learning** summer schools, with hands-on Python coding (NumPy, SciPy, PyTorch) for international cohorts.
+* **Programming & Robotics Teacher, Farzanegan 1 Middle School (NODET)**, Tehran, *Jul 2013 – May 2021.* Taught Python, C/C++, Qt, Small Basic, and Scratch; led a graph-theory workshop; mentored teams to national & international competition wins. Taught analog/digital circuit design and AVR robotics from scratch.
+* **Workshop Instructor, MATLAB & Simulink**, Al Zahra University, Tehran, *Jul – Aug 2020.*
+* **Workshop Instructor, Python**, Sharif University of Technology Business Summer School, *Jun 2020.*
+* **Workshop Instructor, FPGA & Verilog**, Amirkabir University of Technology, *2018 – 2019.*
+* **Lab Instructor & TA, Computational Intelligence Course**, Amirkabir University of Technology, *Jan 2018 – Aug 2019.* Co-designed the lab plan; supervised modeling and control of a UGV using fuzzy logic and neural networks; graded assignments and reports.
+* **Mentor, Quera Junior C++ Workshop** (online, ages 12–16), *Jun – Aug 2020.*
+* **Private Tutoring**, since 2011: Python, MATLAB, C++, machine learning, ICDL.
 
 
-* **University of New South Whales (UNSW)**
-  * **Research Collaborator**, Aug. 2020‑June 2021
-    * Research Topic: Statistical data analysis on a genetics dataset: Applied different specificity tests such as hypergeometric, chi‑square, z‑score, and Fisher exact test, also using hierarchical clustering to obtain tissue‑specific genes, and consequently, disease causative genes. 
-    * Supervisor: Dr. Alinajad-Rokni
-  
-      * **Skills:**  Statistics, Matlab, and Python with NumPy, Matplotlib, Pandas, and Scikit‑learn.
+Honors, Awards & Grants
+======
+
+* **Graduate Herff Fellowship**, Herff College of Engineering, University of Memphis. *5 consecutive semesters, 2022–2025.* Coordinator: Dr. R. Meier.
+* **2nd Place, 8th Annual ECE Department Poster Competition**, University of Memphis, 2022.
+* **Competitor**, *SICK LiDAR StreamEye: Multi-UAS Visual Stream Assessment Challenge*, 2025–26.
+* **Grant Recipient**, Presidential Scientific & Technological Vice-Presidency. Project: *autonomous quad-copter with auto-charge for inspection of transmission lines.* Amirkabir University, 2017.
+* **Participant**, *International RoboCup Senior Soccer Small Size League* (one of ~20 elite international university teams; contributed to circuit design and FPGA programming.) Hefei, China/ João Pessoa, Brazil/ Leipzig, Germany, 2014-2016.
+* **Participant**, *International RoboCup IranOpen Senior Soccer Small Size League*, 2015–16.
+* **Privileged Entry**, one of the top-10 entry students in the Electrical Engineering program at Amirkabir University, 2013.
+* **Ranked 609 (top 0.2%)**, Iranian nationwide university entrance exam, 2013.
+* **3rd Place**, *International RoboCup IranOpen Junior Soccer 2×2 Lightweight Robots*, 2012.
+* **4th Place**, *International RoboCup Junior Soccer 2×2 Robots*, Istanbul, Turkey, 2011 (Individual & Super-team leagues; oral and poster presentation).
+* **1st Place**, *Highly prestigious National Khwarizmi Competition Junior Soccer Robots*, Amirkabir University, 2010.
 
 
-* **Institute for Brain and Cognitive Sciences**
-  * **Research Collaborator**, Feb 2018‑Aug 2019
-    * Developed a Human‑Computer Interface for cyber‑ball & Iowa gambling task for checking patient rejection effect on risk‑taking ability
-    * Supervisor: Dr. Borhani
+Certifications & Professional Development
+======
 
-    * **Skills:**  Statistics, Matlab, and Python with NumPy, Matplotlib, Pandas, and Scikit‑learn.
+* **Graduate Certificate in Data Science**, University of Memphis, 2021–2024.
+* **GRE General**: Quantitative **168/170** (~92nd percentile), Verbal 144/170, Analytical Writing 4.0, 2019.
+* **Referee**, NODET Young Researchers' Festival, Engineering & Technology section, Tehran, 2018.
+* **Organization Committee & Referee**, Nationwide FarzCup Robotic Competition, 2012–2014.
+* **Computational Neuroscience Summer School**, Neuromatch Academy, 2020.
+* **Reinforcement Learning Winter School**, Loop Academy, 2019.
 
 
-* **Amirkarbir University of Technology**
-  * **Lab. Instructor & Teaching Assistant**, Aug. 2020‑June 2021
-    * Computational Intelligence Program 
-    * Supervisor: Dr. Abdollahi
-  
-      * **Skills:** MATLAB, Simulink, Neural Networks, Fuzzy Logic, Controller Design.
 
-  * **Undergraduate Research Assistant at Control of Multi‑Vehicle Systems (CMVS) Lab.**, Jan 2016‑Aug 2019
-     * Thesis Title: Autonomously control a quadcopter and land it on a specific landing station using computer vision.
-     * Supervisor: Dr. Abdollahi
-  
-       * **Skills:**  C++, Python, OpenCV, ARUCO, MATLAB, AI, Video Processing, , Embedded Systems, Sensor Fusion, IOT, PID Controller
-       
-  * **Undergraduate Research Assistant at Parsian Robotics Lab.**, Jan 2013‑Jan 2016
-    * Small Size Soccer League: Boost DC to DC converter design (Converting 16.8 v to 200 v), Design a Two‑way communication circuit using NRF module (wireless communication between robot and computer), Programming FPGA using Verilog, Full implementation of a microprocessor inside FPGA.
-    * Mirosot Soccer League: Design the processor board (using FPGA) and the motor controller board.
-    * Internship Project: Convert a manually‑controlled quad‑copter into an autonomous robot. Design a board that contains the following: Processor, Motor drivers, IMU: gyroscope, magnetometer, and accelerometer, Two‑way communication using an NRF module, Vision using a distance sensor, and an analog camera. 
-    * Advisor: Dr. M. Khosravi.
-    
-      * **Skills:** Circuit Design, Microprocessors, FPGA, Sensor Fusion, Verilog, C++, IOT, Control System Design.
+Talks & Posters
+======
 
+A full list is on the [Talks page](/talks/).
+
+* *Contributor*, A. Gimeno-Gomez, **S. P. Dajkhosh**, M. S. H. Younis, C. T. S. Van, C. Preza, J. C. Barreiro-Hervas, G. Saavedra. *"Performance Comparison of Tunable Wollaston-Based and Three-Wave Interference Structured Illumination Microscopes."* **Focus on Microscopy**, 2023.
+* *Contributor*, A. Gimeno-Gomez, C. T. S. Van, **S. P. Dajkhosh**, C. Preza, J. C. Barreiro-Hervas, G. Saavedra. *"Structured Illumination Microscopy by use of a Spatially Incoherent Source with Arbitrary Shape."* **Focus on Microscopy**, 2022.
+* *Poster*, **International Gordon Research Conference (GRC)**, Maine: "Performance Evaluation of 3D Physics-Informed Channel-Attention GAN on 3D SIM Datasets," Jun 2022.
+* *Poster*, **EECE 8th Annual Poster Competition (2nd Place)**, Memphis, TN: "Physics-Guided Deep Learning Methodologies in Computational Imaging," Apr 2022.
+* *Presenter*, **Institute for Intelligent Systems Python Workshop**, Memphis, TN: "Knowledge-Based Deep Learning Modeling," Oct 2021.
+* *Contributor*, A Zahedifar, SP Dajkhosh, M Hosseinzadeh, Y Ghanbari, **Neuromatch 3.0**: "Enhancing classification of autism spectrum disorder using resting-state fMRI with ML and dimensionality reduction," Oct 2020.
+
+
+Selected Projects
+======
+
+* **Camera Calibration & Virtual Image Dimension Estimation**, Digital Image Processing: projection-matrix-based reconstruction in Python/OpenCV. (A, 2022)
+* **Fake-Review Classification**, Machine Learning: neural networks, random forests, and logistic regression on Amazon product reviews in Python (Scikit-learn, Keras). (A, 2022)
+* **Independent Study: DL Architectures for Microscopy Image Restoration**, review and re-implementation of multiple SOTA architectures and datasets in PyTorch / Keras. (A, 2022)
+* **Autism Spectrum Disorder Classification from rs-fMRI**: DNN-based pipeline in Keras. (A−, 2021)
+* **Physics-Guided DL for Image Restoration**: comprehensive review and SIM simulation toolkit in MATLAB. (A, 2021)
+* **Wireless UGV & Flexible-Arm Control**, IoT: Raspberry Pi + Wi-Fi + Arduino over serial. (A+, 2017)
+* **FDTD Electromagnetic-Wave GUI**: C++/Python with Qt creator. (2017)
+* **Fuzzy Control of an Autonomous Car**: modeling and fuzzy-logic controller in MATLAB under Dr. F. Abdollahi. (A, 2016)
+* **MIROSOT Robot, AUTCUP Senior League**, *Parsian Robotics Lab, Amirkabir University of Technology*, 2016.
+  Designed and implemented the full embedded hardware stack for a competitive MIROSOT robot: FPGA processor board
+  (Verilog/Xilinx), ARM Cortex-M4 motor controller, motor driver circuits, and inter-board communication.
+  Competed at the international AUTCUP Senior league.
+* **Embedded Systems Trio**: full implementation of a CPLD (Verilog/Xilinx ISE), an ARM Cortex-M4 (Keil/STMCube), and an AVR ATMega16 (CodeVisionAVR), three courses, all A+. (2015, 2017)
 
 
 Affiliations & Memberships
 ======
 
-* **SPIE** Member of the international society for optics and photonics since Jan 2023.
-* **IEEE** Nominated as a member at IEEE‑HKN at the University of Memphis since Dec 2022.
-* **WES** Member at Women’s Engineering Society since Aug. 2021
+* **TBP (Tau Beta Pi)**, nominated as a member at the University of Memphis chapter, *Nov 2024*.
+* **UCW-TN**, official member, United Campus Workers of Tennessee, since *Aug 2024*.
+* **V.I.S.A. Memphis**, official member, Memphis Visitor & International Student Association, since *Nov 2023*.
+* **SPIE**, International Society for Optics and Photonics, member since *Dec 2022*.
+* **IEEE-HKN**, nominated for IEEE-HKN (Eta Kappa Nu), University of Memphis chapter, *Dec 2022*.
 
 
-Academic Lectures and Projects
+Languages
 ======
 
-**Poster Presentations**
-
-* S. P. Dajkhosh, M. Hossain, C. Preza, Manuscript submitted ”USR: Unrolled Super‑Resolution with Deep Priors for Structured Illumination Microscopy”, OPTICA, 2023, August, Boston, Massachusetts.
-* S. P. Dajkhosh, C. Van, C. Preza, ”Performance Evaluation of 3D Physics‑Informed Channel Attention GAN using 3D Structured Illumination Microscopy Datasets”, International Gordon Research Conference (GRC), 2022, June, Riverside, Maine
-* S. P. Dajkhosh, C. Van, C. Preza, ”Literature Review: Physics‑Guided Deep Learning Methodologies in Computational Imaging”, Electrical and Computer Engineering Department, University of Memphis, 8th Annual Poster Competition, 2022, Apr, Memphis, TN
-
-
-**Conference Presentations**
-
-* **Presenter:** S. P. Dajkhosh, M. Hossain, C. Preza, ”Image reconstruction for structured illumination microscopy using an unrolled GAN”, SPIE Conference, 2023, May, Orlando, Florida.
-* A. Gimeno‑Gomez, S.P. Dajkhosh, M.S.H. Younis, C.T.S. VAN, C. Preza, J.C. Barreiro‑Hervas, G. Saavedra, ”PERFORMANCE COMPARISON OF TUNABLE WOLLASTON‑BASED AND THREE‑WAVE INTERFERENCE STRUCTURED ILLUMINATION MICROSCOPES”, Abstract accepted forFocus on Microscopy, 2023, Online.
-* A. Gimeno‑Gomez, C.T.S. Van, S. P. Dajkhosh, C. Preza, J. C. Barreiro‑Hervas, G. Saavedra, “Structured illumination microscopy by use of a spatially incoherent source with arbitrary shape,”Focus on Microscopy, 2022, Online.
-* **Presenter:** S. P. Dajkhosh, C. Van, C. Preza, ”Knowledge‑Based Deep Learning Modeling”, Institute for Intelligent Systems Student Organization, Python Workshop, 2021, Oct, Memphis, TN.
-* A. Zahedifard, S. P. Dajkhosh, M. Hosseinzadeh, Y. Ghanbari, M. Sarvestani, “Enhancing classification of autism spectrum disorder using resting‑state fMRI with machine learning approach and dimensionality reduction”, Neuromatch 3.0, 2020, Oct, Online.
-
-**Publications**
-
-* A. Gimeno‑Gomez, S.P. Dajkhosh, M.S.H. Younis, C.T.S. VAN, C. Preza, J.C. Barreiro‑Hervas, G. Saavedra, ”Management of the axial modulation of the illumination pattern in structured illumination microscopy using an extended illumination source”, Manuscript Submitted for Opt. Express, 2023, Online.
-* A. Abraham, P. Qaladize, A. Solis, S.P. Dajkhosh, C.T.S. VAN, C. Preza, Manuscript in the submission process for Quaesitum in late Jan 2023.
-* MM. Rahimi, MM. Shirazi, S. P. Dajkhosh, A Zolanvari, M. Arfaee, H. Kazemi Khoshkijari, AH. Abbassi Fashami, A. Saeidi,  and MA. Khosravi,”Parsian Extended Team Description”, 2016, International RoboCup, Leipzig, Germany.
-* A. Zolanvari, MM. Shirazi, S. P. Dajkhosh, AM. Naderi, M. Arfaee, M. Behbooei, H. Kazemi Khoshkijari, E. Tazimi, MM. Rahimi, and A. Saeidi Shahrivar,”Parsian Team Description”, 2015, International RoboCup, Hefei, China.
-* A. Saeidi, MH. Malmir, MM. Shirazi, M. Behbooei, S. Boluki, M. Kazemi, S. M. Mohaimanian Pour, P. Ghanbari, S. Jamshidiha, S. P. Dajkhosh, and A. Zahedi.,”AUT‑Parsian Team Description”, 2014, International RoboCup, Jao Pessoa, Brazil
-
-**Projects**
-
-* Digital Image Processing: Camera Calibration and virtual image dimension estimation using projection matrix in  **Python** ( **OpenCV** ), (A), 2022
-* Digital Control Lab. IoT: Wireless Control of a UGV and Servo Motors of a flexible arm using **Raspberry Pi** and Wi‑Fi module connected via Serial Port programmed with Arduino. (A+), 2017
-* Advanced Programming FTDT GUI: Simulate FDTD Electromagnetic wave spread using **C++ and Python** with **Qt**  graphics creator, 2017
-* Computational Intelligence: Modeling and **Fuzzy** Control of an Autonomous Car in **MATLAB**. (A), 2016
-* LabVIEW GUI: Design a student‑professor user interface using a UDP protocol in **LabVIEW**. (A), 2016
-* **Modeling Projects:** Modeling and position control of a servo motor. (A),  Modeling and 2D Control of a robot manipulator in **MATLAB**. (A+), 2016
-* **Embedded Systems Projects:** Full Implementation of a CPLD using Verilog in XILINX ISE, Full implementation of an ARM Cortex M4 using C in STMCube and Keil uVision, and Full implementation of AVR ATMega16 using C in CodeVision (Three courses all A+), 2015, 2017
+* **Persian**: native.
+* **English**: professional.
+* **French**, **Arabic**: intermediate.
 
 
 References
 ======
 
-1. Dr E. Jacobs, Professor, Electrical Computer Engineering, University of Memphis: eljacobs@memphis.edu
-2. Dr A. Ramirez, Research Assistant Professor, Electrical and Computer Engineering, University of Memphis: ajramirz@memphis.edu
-3. Dr A. Robinson, Associate Professor, Electrical and Computer Engineering, University of Memphis: alrobins@memphis.edu
-4. Dr M. Davoodi, Assistant Professor, Electrical and Computer Engineering, University of Memphis: mdavoodi@memphis.edu
-5. Dr. F. Abdollahi, Associate Professor, Electrical Engineering, Amirkabir University of Technology: f_abdollahiaut.ac.ir
-6. Dr. R. Meier, Associate Professor & former Graduate Coordinator, Herff College of Engineering; Civil Engineering,
-University of Memphis: rwmeier@memphis.edu
-7. Dr. C. Van, founder of the MakeScope through the University of Memphis and Epicenter partnership
-patents2Products: van.congtuanson@gmail.com
-8. Prof. S. Ivey, Associate Dean for Research, Herff College of Engineering; Civil Engineering, University of
-Memphis: ssalyers@memphis.edu
-9. Dr. M. Khosravi, Assistant Professor at the Department of Electrical Engineering, Control, Amirkabir
-University of Technology: m.a.khosravi@aut.ac.ir
-10. Dr. Kh. Borhani, Assistant Professor in Cognitive Neuroscience, Social and cognitive neuroscience group
-leader, Institute for Cognitive and Brain Sciences, Shahid Beheshti University: kh_borhani@sbu.ac.ir
+Available on request. Selected referees include:
 
+1. **Dr. E. Jacobs**, Professor, Herff College of Engineering, ECE Dept., University of Memphis· *eljacobs@memphis.edu*
+2. **Dr. A. Ramirez**, Research Assistant Professor, Herff College of Engineering, ECE Dept., University of Memphis · *ajramirz@memphis.edu*
+3. **Dr. M. Davoodi**, Assistant Professor, Herff College of Engineering, ECE Dept., University of Memphis · *mdavoodi@memphis.edu*
+4. **Dr. A. Robinson**, Associate Professor, Herff College of Engineering, ECE Dept., University of Memphis · *alrobins@memphis.edu*
+<!-- 5. **Dr. O. Furxhi**, True Colors Infrared Imaging· *ofurxhi@memphis.edu* -->
+5. **Dr. C. Van**, founder of MakeScope (UoM × Epicenter Patents-to-Products) · *van.congtuanson@gmail.com*
+<!-- 6. **Prof. S. Ivey**, Associate Dean for Research, Herff College of Engineering, Civil Engineering, University of Memphis · *ssalyers@memphis.edu*
+7. **Dr. R. Meier**, Associate Professor & Graduate Coordinator, Herff College of Engineering, Civil Engineering, University of Memphis · *rwmeier@memphis.edu*
+8. **Dr. F. Abdollahi**, Associate Professor, EE (Control), Amirkabir University of Technology · *f_abdollahi@aut.ac.ir*
+9. **Dr. M. Khosravi**, Assistant Professor, EE (Control), Amirkabir University of Technology · *m.a.khosravi@aut.ac.ir*
+10. **Dr. Kh. Borhani**, Assistant Professor, Cognitive Neuroscience; group leader, Social and Cognitive Neuroscience, Institute for Cognitive and Brain Sciences, Shahid Beheshti University · *kh_borhani@sbu.ac.ir* -->
+<!-- 11. **Dr. Th. P. Watson** -->
