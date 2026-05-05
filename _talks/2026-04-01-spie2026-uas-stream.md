@@ -8,7 +8,7 @@ date: 2026-04-01
 location: "National Harbor, MD, USA"
 ---
 
-**Presenter.** Conference talk presenting an end-to-end vision-based UAS pipeline for **real-time environmental stream assessment**, developed as part of the SICK LiDAR StreamEye Multi-UAS Visual Stream Assessment Challenge (2025--26).
+**Presenter.** Conference talk presenting an end-to-end vision-based UAS pipeline for **real-time environmental stream assessment**, developed as part of the [SICK LiDAR StreamEye Multi-UAS Visual Stream Assessment Challenge (2025--26)](https://www.memphis.edu/herff/news/herff_students_place_lidar_competition.php) in which our team placed **2nd place**.
 
 The system integrates deep learning perception with autonomous UAV flight to detect and map water bodies, assess stream conditions, and collect multi-sensor environmental data in field settings with tree canopy occlusion.
 

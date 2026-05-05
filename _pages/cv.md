@@ -18,7 +18,7 @@ Snapshot
 PhD candidate in Electrical & Computer Engineering at the **University of Memphis** (expected 2027). My Ph.D. research focuses on UAV perception, navigation, and geo-localization for stream assessment and environmental monitoring including multimodal aerial perception, and field applications. Furthermore, my M.Sc. focused on physics-informed deep learning, image reconstruction & denoising, unrolled optimization, generative models for inverse problems in computational imaging research lab (CIRL, 2021–2023). Published/presented at **MDPI - Remote Sensing**, **SPIE**, and **OPTICA**. Open to **industry R&D, research scientist, and postdoc** roles starting late 2027.
 
 
-* **Experience:** 5 yrs graduate research (UoM CIRL & Jacobs Lab) · 1 yr industry R&D (Part AI) · 8+ yrs teaching programming & robotics · 9+ yrs international robotics competitions and achievements.
+* **Experience:** 5 yrs graduate research (UoM CIRL & RSL) · 1 yr industry R&D (Part AI) · 8+ yrs teaching programming & robotics · 9+ yrs international robotics competitions and achievements.
 * **Recognition:** Herff Fellowship, fully funded 5 consecutive semesters (2022–25) · 2nd place, EECE Poster Competition (2022) · Grant for autonomous UAV transmission-line inspection (2017) · Top 0.2% (rank 609), national entrance exam.
 * **Stack:** Python (Ultralytics, PyTorch, TensorFlow, Keras, Scipy, NumPy, Scikit-learn, OpenCV), MATLAB/Simulink, C/C++, Verilog, FPGA, embedded systems, Linux, Git, LaTeX, nixOS, Electrical Circuit Design.
 
@@ -26,10 +26,10 @@ PhD candidate in Electrical & Computer Engineering at the **University of Memphi
 Education
 ======
 
-* **Ph.D., Electrical & Computer Engineering**, University of Memphis, Memphis, TN. *Aug 2023 – 2027 (expected).* Fully funded with HERFF Graduate Fellowship. GPA: **3.98/4.00**. Advisor: Dr. E. Jacobs. Topic: *TerrAInav: Vision-AI-Based UAV Navigation, SLAM, and Geo-Localization for environmental monitoring.*
+* **Ph.D., Electrical & Computer Engineering**, University of Memphis, Memphis, TN. *Aug 2023 – 2027 (expected).* Concentration: Computer Engineering. Fully funded through graduate assistantship. GPA: **3.98/4.00**. Advisor: Dr. E. Jacobs. Dissertation: *TerrAInav: Vision-AI-Based UAV Navigation, SLAM, and Geo-Localization for Environmental Monitoring.*
   * **Selected courses:** Linear Systems Analysis, Bayesian Inference, Fundamentals of Data Science.
 
-* **M.Sc., Electrical & Computer Engineering**, University of Memphis, Memphis, TN. *Aug 2021 – Jul 2023.* Fully funded. GPA: **3.96/4.00**. Advisor: Dr. C. Preza. Research topic: *Image reconstruction for Structured Illumination Microscopy using physics-guided DNNs (UPIGAN, Unrolled Physics-Informed GAN).*
+* **M.Sc., Electrical & Computer Engineering**, University of Memphis, Memphis, TN. *Aug 2021 – Jul 2023.* Concentration: Computer Engineering. Fully funded. GPA: **3.96/4.00**. Advisor: Dr. C. Preza. Thesis: *Image Reconstruction for Structured Illumination Microscopy using Physics-Guided DNNs (UPIGAN, Unrolled Physics-Informed GAN).*
   * **Selected courses:** Neural Networks, Random Signals and Noise, Image Processing, Data Mining, Multimedia Systems, Artificial Intelligence, Advanced Machine Learning.
 
 * **B.Sc., Electrical Engineering (Concentration in Control Engineering)**, Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran. *Sep 2013 – Feb 2018.* Privileged Entry (one of the top-10 entry students in the program). Thesis: *Indoor Autonomous Landing of a Quadrotor with Video Processing.* Advisor: Dr. F. Abdollahi.
@@ -75,9 +75,9 @@ Proceeding Publications and Technical Reports
 * Rahimi, M.M., Shirazi, M.M., S.P. Dajkhosh, et al. "Parsian Extended
   Team Description," Team Description Paper (TDP), RoboCup 2016, Leipzig, Germany.
   SSL Senior League. (Peer-reviewed).
-* Zolanvari, A., Shirazi, M.M., S.P. Dajkhosh, et al. "Parsian Team Description,"
+<!-- * Zolanvari, A., Shirazi, M.M., S.P. Dajkhosh, et al. "Parsian Team Description,"
   Team Description Paper (TDP), RoboCup 2015, Hefei, China. SSL Senior League.
-  (Peer-reviewed).
+  (Peer-reviewed). -->
 <!-- * A. Saeidi, M.H. Malmir, M.M. Shirazi, et al., Dajkhosh, S.P. "AUT-Parsian Team
   Description," Team Description Paper (TDP), RoboCup 2014, João Pessoa, Brazil.
   SSL Senior League. (Peer-reviewed). -->
@@ -88,7 +88,6 @@ Research Experience
 
 * **Graduate Assistant, Doctoral Researcher**, *Remote Sensing Lab (RSL)*, University of Memphis, *Aug 2023 – present*
   * **TerrAInav (Vision-Based Navigation, and Geolocalization):** multimodal field-applied research on UAVs including path planning with **Dynamic Movement Primitives (DMPs)**, SLAM, real-time water-body mapping, and multi-sensor aerial data collection. As well as image registration with UAV-captured aerial imagery using deep learning; and geo-localization for visual stream assessment and environmental monitoring.
-  * **Virtually Integrated Program (VIP) mentor (continual):** mentored undergraduates individually and in teams of 4; research methodology, paper reading & writing, programming in Python and MATLAB. In collaboration with **Dr. S. Ivey** and **Dr. E. Jacobs**.
   * **Stack:** Python (Ultralytics, PyTorch, Torch-Vision, TensorFlow, OpenCV, etc), MATLAB, LaTeX, nixOS, embedded systems, electrical circuit design.
 
 * **Graduate Assistant, Master's Researcher**, *Computational Imaging Research Lab (CIRL)*, University of Memphis, *Aug 2021 – Jul 2023*
@@ -96,22 +95,21 @@ Research Experience
   * Using MATLAB, simulated new enhancements in the optical transfer functions for wide-field, tunable, and 3-Wave SIM microscope geometries, in a team of 5 with the **University of Valencia**.
   * **Stack:** Python (TensorFlow, OpenCV, etc), physics-guided deep learning, 3D image super-resolution, MATLAB.
 
-* **Research Collaborator**, *University of New South Wales*, Sydney, Australia, *Aug 2020 – Jun 2021*
+* **Volunteer Research Collaborator**, *University of New South Wales*, Sydney, Australia, *Aug 2020 – Jun 2021*
   * Statistical analysis of a genomics dataset under Dr. Alinajad-Rokni: hypergeometric, chi-square, Fisher exact, and z-score specificity tests; hierarchical clustering in Python to identify tissue-specific and disease-causative genes.
   * **Stack:** Python (NumPy, Pandas, Scikit-learn), MATLAB.
 
-* **Research Collaborator**, *Institute for Cognitive & Brain Sciences, Shahid Beheshti University*, Tehran, *Feb 2018 – Aug 2019*
-  * Built a Python-based human–computer interface for **Cyber-ball** and **Iowa Gambling Task** experiments under Dr. Borhani, studying the effect of social rejection on risk-taking.
+* **Volunteer Research Collaborator**, *Institute for Cognitive & Brain Sciences, Shahid Beheshti University*, Tehran, *Feb 2018 – Aug 2019*
+  * Built a Python-based human-computer interface for **Cyberball** and **Iowa Gambling Task** experiments under Dr. Borhani, studying the effect of social rejection on risk-taking.
 
 * **Undergraduate Research Assistant**, *Control of Multi-Vehicle Systems (CMVS) Lab*, Amirkabir University of Technology, *Jan 2016 – Aug 2019*
   * Thesis project (A+): autonomous indoor landing of a quad-copter on a marker pad using video processing on a Raspberry Pi (OpenCV + ARUCO).
+  * Collaborated in a team of ~6 for full implementation of a custom VTOL drone design.
   * Designed independent PID controllers for each quad-copter degree of freedom; bridged C++ vision code to MATLAB/Simulink for control synthesis.
 
 * **Undergraduate Research Assistant**, *Parsian Robotics Lab*, Amirkabir University of Technology, *Jan 2013 – Jan 2016*
-  * **Small Size Soccer League:** designed a 16.8 V → 200 V boost DC-DC converter, two-way NRF wireless link, and implemented a soft-core microprocessor on FPGA in Verilog.
-  * **MIROSOT Soccer League:** designed FPGA processor board and motor-controller board.
-  * **Quad-copter internship:** designed a fully integrated autonomous flight board (processor, motor drivers, IMU, NRF link, vision).
-  * **Advisor:** Dr. M. Khosravi.
+  * **Small Size Soccer League:** Led electronics team of 3-4. Collaborated in a team of 10-15. Designed a 16.8 V to 200 V boost DC-DC converter, two-way NRF wireless link, and implemented a soft-core microprocessor on FPGA in Verilog. Full implementation of a FPGA/ARM processor with motor controllers for MIROSOT Soccer League.
+  * **Quad-copter internship:** Designed a fully integrated autonomous flight board (processor, motor drivers, IMU, NRF link, vision). Advisor: Dr. M. Khosravi.
 
 
 Industry Experience
@@ -119,7 +117,7 @@ Industry Experience
 
 * **Lead Robotics & API Developer**, *Part AI Research Center*, Tehran, *Sep 2020 – Aug 2021*
   * **Robotics:** designed and built cooperative agricultural quad-copters from scratch, **leading a team of 4**. Collaborated with the project manager on task definition, purchasing decisions, and team priorities.
-  * **Embedded systems:** implemented **YOLO** and **YOLO-Lite** object-detection algorithms on Pixhawk Cube; brought up Khadas and NVIDIA Jetson dev kits; led cross-team consultations to align embedded-systems integration with company-wide systems.
+  * **Embedded systems:** implemented **YOLO** and **YOLO-Lite** object-detection on Khadas and NVIDIA Jetson dev kits; led cross-team consultations for embedded-systems integration.
   * **AI software:** authored Python AI APIs for **Microsoft AirSim** flight simulator; designed the software architecture and class diagrams for the simulation API surface.
   * **Process:** ran the team's Kanban + Scrum board on GitLab.
   * **Stack:** Sensor fusion, Python APIs, MATLAB, Git, Arduino, embedded systems, Docker, IoT, robotics, Linux, Scrum, Kanban.
@@ -131,7 +129,7 @@ Teaching & Mentoring
 A complete list is on the [Teaching page](/teaching/).
 
 * **Teaching Faculty, EECE 2207: Engineering Mathematics Applications**, University of Memphis, *Sep 2024 – May 2025.* Taught Introduction to MATLAB and its applications in engineering math.
-* **Mentor, Virtually Integrated Program**, University of Memphis, *Sep 2022 – present.* Mentor undergraduates on research methodology, paper reading & writing, and Python/MATLAB coding.
+* **Mentor, Virtually Integrated Program**, University of Memphis, *Sep 2022 – present.* Mentoring undergraduates individually and in teams of 4-6; research methodology, paper reading & writing, programming in Python and MATLAB, electronics circuit and 3D mechanical design and fabrication, etc. In collaboration with Dr. S. Ivey and Dr. E. Jacobs.
 * **Teaching Assistant, Neuromatch Academy**, *Jul – Aug 2021.* TA'd both the **Computational Neuroscience** and **Deep Learning** summer schools, with hands-on Python coding (NumPy, SciPy, PyTorch) for international cohorts.
 * **Programming & Robotics Teacher, Farzanegan 1 Middle School (NODET)**, Tehran, *Jul 2013 – May 2021.* Taught Python, C/C++, Qt, Small Basic, and Scratch; led a graph-theory workshop; mentored teams to national & international competition wins. Taught analog/digital circuit design and AVR robotics from scratch.
 * **Workshop Instructor, MATLAB & Simulink**, Al Zahra University, Tehran, *Jul – Aug 2020.*
@@ -189,7 +187,6 @@ Selected Projects
 * **Camera Calibration & Virtual Image Dimension Estimation**, Digital Image Processing: projection-matrix-based reconstruction in Python/OpenCV. (A, 2022)
 * **Fake-Review Classification**, Machine Learning: neural networks, random forests, and logistic regression on Amazon product reviews in Python (Scikit-learn, Keras). (A, 2022)
 * **Independent Study: DL Architectures for Microscopy Image Restoration**, review and re-implementation of multiple SOTA architectures and datasets in PyTorch / Keras. (A, 2022)
-* **Autism Spectrum Disorder Classification from rs-fMRI**: DNN-based pipeline in Keras. (A−, 2021)
 * **Physics-Guided DL for Image Restoration**: comprehensive review and SIM simulation toolkit in MATLAB. (A, 2021)
 * **Wireless UGV & Flexible-Arm Control**, IoT: Raspberry Pi + Wi-Fi + Arduino over serial. (A+, 2017)
 * **FDTD Electromagnetic-Wave GUI**: C++/Python with Qt creator. (2017)
@@ -215,7 +212,7 @@ Languages
 ======
 
 * **Persian**: native.
-* **English**: professional.
+* **English**: professional (GRE Verbal 144/170, AWA 4.0).
 * **French**, **Arabic**: intermediate.
 
 

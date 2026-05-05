@@ -12,11 +12,11 @@ I'm a PhD candidate in Electrical & Computer Engineering at the **University of 
 
 ## What I work on
 
-**Vision-based UAV navigation and environmental monitoring.** My PhD research in the **Remote Sensing Lab (RSL)** with **Dr. Eddie Jacobs** develops the **TerrAInav** stack: multimodal image registration, DMP-based path planning through tree canopies, geo-localization from drone footage, and SLAM for autonomous UAV flight. We apply this to real-world stream assessment: our open-source simulator [**TerrAInav Sim**](https://doi.org/10.3390/rs17081454) was published in *Remote Sensing* (MDPI, 2025) and we're currently competing in the **SICK LiDAR StreamEye Multi-UAS Visual Stream Assessment Challenge (2025--26)**. Papers at SPIE Defense + Commercial Sensing 2024, 2025, and 2026.
+**Vision-based UAV navigation and environmental monitoring.** My PhD research in the **Remote Sensing Lab (RSL)** with **Dr. Eddie Jacobs** develops the **TerrAInav** stack: multimodal image registration, DMP-based path planning through tree canopies, geo-localization from drone footage, and SLAM for autonomous UAV flight. We apply this to real-world stream assessment: our open-source simulator [**TerrAInav Sim**](https://doi.org/10.3390/rs17081454) was published in *Remote Sensing* (MDPI, 2025) and our team placed [**2nd in the SICK LiDAR StreamEye Multi-UAS Visual Stream Assessment Challenge**](https://www.memphis.edu/herff/news/herff_students_place_lidar_competition.php) (2025--26). Papers at SPIE Defense + Commercial Sensing 2024, 2025, and 2026.
 
 **Physics-informed deep learning for 3D microscopy.** My MS thesis introduced **UPIGAN**, an unrolled, physics-informed GAN for Structured Illumination Microscopy. The idea: bake the optical transfer function and SIM forward model directly into the unrolled network, so the GAN inverts *known physics* rather than re-discovers it. Outperformed channel-attention baselines on real 3D SIM datasets. Presented at SPIE 2023, OPTICA 2023, the Gordon Research Conference (Maine, 2022), and led a collaboration with the **University of Valencia** published in *Optics Express* (2023). Advisor: **Dr. Chrysanthe Preza** (CIRL).
 
-**Industry R&D.** Before grad school I spent a year as an **R&D Engineer at Part AI Research Center** (Tehran), building cooperative agricultural quad-copters from scratch: flight controller on Pixhawk Cube, Linux on Erle Brain, YOLO on NVIDIA Jetson, and Python AI APIs for Microsoft AirSim. I shipped real hardware, ran the Kanban + Scrum board, and led a team of four.
+**Industry R&D.** Before grad school I spent a year as an **R&D Engineer at Part AI Research Center** (Tehran), building cooperative agricultural quad-copters from scratch: YOLO and YOLO-Lite on Khadas and NVIDIA Jetson dev kits, and Python AI APIs for Microsoft AirSim. I shipped real hardware, ran the Kanban + Scrum board, and led a team of four.
 
 ## Teaching
 
@@ -25,6 +25,7 @@ Beyond research I've spent **8+ years teaching** programming and engineering to 
 ## A few numbers
 
 - **Herff Fellowship**, 5 consecutive semesters (2022--2025), graduate research assistantship.
+- **[2nd place](https://www.memphis.edu/herff/news/herff_students_place_lidar_competition.php)**, SICK LiDAR StreamEye: LiDAR Challenge across USA and Canada, 2025--26.
 - **2nd place**, 8th Annual ECE Department Poster Competition, UoM (2022).
 - **9+ years of competition robotics**: RoboCup Brazil 2014, China 2015, International 2014--16, AUTCUP 1st place 2016.
 - **Top 0.2%** (rank 609) in the national university entrance exam; privileged-entry BSc at Amirkabir University of Technology (Tehran Polytechnic).
