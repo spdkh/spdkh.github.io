@@ -147,7 +147,7 @@ Honors, Awards & Grants
 
 * **Graduate Herff Fellowship**, Herff College of Engineering, University of Memphis. *5 consecutive semesters, 2022–2025.* Coordinator: Dr. R. Meier.
 * **2nd Place, 8th Annual ECE Department Poster Competition**, University of Memphis, 2022.
-* **Competitor**, *SICK LiDAR StreamEye: Multi-UAS Visual Stream Assessment Challenge*, 2025–26.
+* **[2nd Place](https://www.memphis.edu/herff/news/herff_students_place_lidar_competition.php)**, *SICK LiDAR StreamEye: LiDAR Challenge across USA and Canada, Proposing Multi-UAS Visual Stream Assessment*, 2025–26.
 * **Grant Recipient**, Presidential Scientific & Technological Vice-Presidency. Project: *autonomous quad-copter with auto-charge for inspection of transmission lines.* Amirkabir University, 2017.
 * **Participant**, *International RoboCup Senior Soccer Small Size League* (one of ~20 elite international university teams; contributed to circuit design and FPGA programming.) Hefei, China/ João Pessoa, Brazil/ Leipzig, Germany, 2014-2016.
 * **Participant**, *International RoboCup IranOpen Senior Soccer Small Size League*, 2015–16.
