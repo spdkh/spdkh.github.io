@@ -19,7 +19,7 @@ PhD candidate in Electrical & Computer Engineering at the **University of Memphi
 
 
 * **Experience:** 5 yrs graduate research (UoM CIRL & RSL) · 1 yr industry R&D (Part AI) · 8+ yrs teaching programming & robotics · 9+ yrs international robotics competitions and achievements.
-* **Recognition:** Herff Fellowship, fully funded 5 consecutive semesters (2022–25) · 2nd place, EECE Poster Competition (2022) · Grant for autonomous UAV transmission-line inspection (2017) · Top 0.2% (rank 609), national entrance exam.
+* **Recognition:** Herff Fellowship, fully funded 5 consecutive semesters (2022–25) · 2nd place, National Sick LiDAR Competition (2026) · Grant for autonomous UAV transmission-line inspection (2017).
 * **Stack:** Python (Ultralytics, PyTorch, TensorFlow, Keras, Scipy, NumPy, Scikit-learn, OpenCV), MATLAB/Simulink, C/C++, Verilog, FPGA, embedded systems, Linux, Git, LaTeX, nixOS, Electrical Circuit Design.
 
 
@@ -159,6 +159,7 @@ Honors, Awards & Grants
 Certifications & Professional Development
 ======
 
+* **Remote Pilot - Part 107**, Exam Scheduled June, 2026.
 * **Graduate Certificate in Data Science**, University of Memphis, 2021–2024.
 * **GRE General**: Quantitative **168/170** (~92nd percentile), Verbal 144/170, Analytical Writing 4.0, 2019.
 * **Referee**, NODET Young Researchers' Festival, Engineering & Technology section, Tehran, 2018.
