@@ -15,11 +15,11 @@ redirect_from:
 Summary
 ======
 
-PhD candidate in Electrical & Computer Engineering at the **University of Memphis** (expected 2027). PhD research focuses on UAV perception, navigation, and geo-localization for stream assessment and environmental monitoring, including multimodal aerial perception and field applications. M.Sc. focused on physics-informed deep learning, image reconstruction and denoising, unrolled optimization, and generative models for inverse problems in the Computational Imaging Research Lab (CIRL, 2021–2023). Published and presented at **MDPI Remote Sensing**, **SPIE**, and **OPTICA**. Open to **industry R&D, research scientist, and postdoc** roles starting late 2027.
+PhD candidate in Electrical & Computer Engineering at the **University of Memphis** (expected 2027). PhD research program, Anaita, develops UAV-based visual stream assessment on the StreamEye drone platform (RGB + LiDAR, Jetson edge deployment): benchmarking vision foundation models (anait-Bench), water-mask segmentation and litter detection (anait-Eye), and a UAV waterway dataset (anait-Shotes). Earlier work covered UAV navigation, aerial image registration, and geo-localization (TerrAInav). M.Sc. focused on physics-informed deep learning, image reconstruction and denoising, unrolled optimization, and generative models for inverse problems in the Computational Imaging Research Lab (CIRL, 2021–2023). Published and presented at **MDPI Remote Sensing**, **SPIE**, and **OPTICA**. Open to **industry R&D, research scientist, and postdoc** roles starting late 2027.
 
 * **Experience:** 5 yrs graduate research (UoM CIRL & RSL) · 1 yr industry R&D (Part AI) · 8+ yrs teaching programming & robotics · robotics competitions & awards since 2010.
 * **Recognition:** Herff Fellowship, fully funded 5 consecutive semesters (2022–25) · 2nd place, SICK LiDAR Challenge, USA & Canada (2026) · Grant for autonomous UAV transmission-line inspection (2017) · Top 0.2% (rank 609), national entrance exam.
-* **Stack:** Python (Ultralytics, PyTorch, TensorFlow, OpenCV, etc.), MATLAB/Simulink, C/C++, Verilog, FPGA, embedded systems, Linux, Git, LaTeX, nixOS, electrical circuit design.
+* **Stack:** Python (Ultralytics, PyTorch, TensorFlow, OpenCV, etc.), MATLAB/Simulink, C/C++, Verilog, FPGA, embedded systems, Linux, Git, LaTeX, electrical circuit design.
 
 
 Education
@@ -27,7 +27,7 @@ Education
 
 * **Ph.D., Electrical & Computer Engineering**, *University of Memphis*, Memphis, TN. *Aug 2023 – 2027 (expected).*
   Concentration: Computer Engineering. Fully funded through graduate assistantship. GPA: **3.98/4.00**. Advisor: Dr. E. Jacobs.
-  Dissertation: *TerrAInav: Vision-AI-Based UAV Navigation, SLAM, and Geo-Localization for Environmental Monitoring.*
+  Dissertation topic: Anaita, UAV-based visual stream assessment.
   * **Selected courses:** Linear Systems Analysis, Bayesian Inference, Fundamentals of Data Science.
 
 * **M.Sc., Electrical & Computer Engineering**, *University of Memphis*, Memphis, TN. *Aug 2021 – Jul 2023.*
@@ -49,7 +49,7 @@ Skills
 * **Edge AI & benchmarking:** NVIDIA Jetson Orin NX deployment, accuracy-latency profiling, reproducible configuration-driven evaluation.
 * **Computer vision & imaging:** feature extraction, object detection, OpenCV, ARUCO, optical-transfer-function modeling, structured illumination microscopy, camera calibration, geo-localization.
 * **Hardware & embedded:** Raspberry Pi, NVIDIA Jetson, Khadas, Pixhawk, FPGA (Xilinx ISE), CPLDs, ARM Cortex-M4 (STM32, Keil), AVR, KiCad, Altium Designer.
-* **Tools & DevOps:** Git, nixOS, Docker, Linux, LaTeX, LabVIEW, Scrum/Kanban.
+* **Tools:** Git, Linux, LaTeX, LabVIEW, Scrum/Kanban.
 
 
 Journal Publications
@@ -85,9 +85,11 @@ Research Experience
 ======
 
 * **Graduate Assistant, Doctoral Researcher**, *Remote Sensing Lab (RSL), University of Memphis*, Memphis, TN. *Aug 2023 – present*
-  * **TerrAInav (Vision-Based Navigation, and Geolocalization):** multimodal field-applied research on UAVs including path planning with **Dynamic Movement Primitives (DMPs)**, SLAM, real-time water-body mapping, and multi-sensor aerial data collection; deep-learning image registration of UAV-captured aerial imagery; and geo-localization for visual stream assessment and environmental monitoring.
-  * **Anait-Bench:** open-source framework that benchmarks promptable and non-promptable detectors and segmenters, alone and as detector-segmenter pipelines, under text, box, and no-prompt conditions with uninformative-prompt controls; measures accuracy and latency on a workstation and verifies the most promising configurations on an NVIDIA Jetson Orin NX.
-  * **Stack:** Python (Ultralytics, PyTorch, Torch-Vision, TensorFlow, OpenCV, etc.), MATLAB, LaTeX, nixOS, embedded systems, electrical circuit design.
+  * **Anaita (PhD research program):** UAV-based visual stream assessment covering drone navigation and image processing, carried out on the **StreamEye** drone platform (RGB camera + LiDAR, Jetson edge deployment). Three subprojects:
+    * **anait-Bench:** open-source framework that benchmarks 40+ promptable and open-vocabulary vision foundation models, alone and as detector-segmenter pipelines, on UAV imagery of waterways, under text, box, and no-prompt conditions with uninformative-prompt controls; measures accuracy and latency on a workstation and verifies the most promising configurations on an NVIDIA Jetson Orin NX.
+    * **anait-Eye:** stream-assessment image processing (water-mask segmentation and litter detection); **anait-Shotes:** the UAV waterway dataset generated, collected, and annotated with it.
+  * **TerrAInav (earlier project):** UAV path planning through tree canopies with **Dynamic Movement Primitives (DMPs)**, real-time water-body mapping, multi-sensor aerial data collection, deep-learning image registration of UAV imagery, and geo-localization; open-source TerrAInav Sim simulator.
+  * **Stack:** Python (Ultralytics, PyTorch, Torch-Vision, TensorFlow, OpenCV, etc.), MATLAB, LaTeX, embedded systems, electrical circuit design.
 
 * **Graduate Assistant, Master's Researcher**, *Computational Imaging Research Lab (CIRL), University of Memphis*, Memphis, TN. *Aug 2021 – Jul 2023*
   * Built **UPIGAN**, an unrolled, physics-informed GAN that bakes the SIM forward model and OTF into the network for 3D super-resolution microscopy. Outperformed baseline channel-attention GANs on real SIM datasets. Led a sub-team of three in collaboration with Dr. C. Van.
@@ -119,7 +121,7 @@ Industry Experience
   * **Embedded systems:** implemented **YOLO** and **YOLO-Lite** object-detection on Khadas and NVIDIA Jetson dev kits; led cross-team consultations for embedded-systems integration.
   * **AI software:** authored Python AI APIs for **Microsoft AirSim** flight simulator; designed the software architecture and class diagrams for the simulation API surface.
   * **Process:** ran the team's Kanban + Scrum board on GitLab.
-  * **Stack:** Sensor fusion, Python APIs, MATLAB, Git, Arduino, embedded systems, Docker, IoT, robotics, Linux, Scrum, Kanban.
+  * **Stack:** Sensor fusion, Python APIs, MATLAB, Git, Arduino, embedded systems, IoT, robotics, Linux, Scrum, Kanban.
 
 
 Teaching & Mentoring
