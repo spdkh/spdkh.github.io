@@ -18,7 +18,7 @@ Summary
 PhD candidate in Electrical & Computer Engineering at the **University of Memphis** (expected 2027). PhD research focuses on UAV perception, navigation, and geo-localization for stream assessment and environmental monitoring, including multimodal aerial perception and field applications. M.Sc. focused on physics-informed deep learning, image reconstruction and denoising, unrolled optimization, and generative models for inverse problems in the Computational Imaging Research Lab (CIRL, 2021–2023). Published and presented at **MDPI Remote Sensing**, **SPIE**, and **OPTICA**. Open to **industry R&D, research scientist, and postdoc** roles starting late 2027.
 
 * **Experience:** 5 yrs graduate research (UoM CIRL & RSL) · 1 yr industry R&D (Part AI) · 8+ yrs teaching programming & robotics · robotics competitions & awards since 2010.
-* **Recognition:** Herff Fellowship, fully funded 5 consecutive semesters (2022–25) · 2nd place, SICK LiDAR Challenge, USA & Canada (2026) · Top 0.2% (rank 609), national entrance exam.
+* **Recognition:** Herff Fellowship, fully funded 5 consecutive semesters (2022–25) · 2nd place, SICK LiDAR Challenge, USA & Canada (2026) · Grant for autonomous UAV transmission-line inspection (2017) · Top 0.2% (rank 609), national entrance exam.
 * **Stack:** Python (Ultralytics, PyTorch, TensorFlow, OpenCV, etc.), MATLAB/Simulink, C/C++, Verilog, FPGA, embedded systems, Linux, Git, LaTeX, nixOS, electrical circuit design.
 
 
@@ -136,12 +136,13 @@ A complete list is on the [Teaching page](/teaching/).
 * **Mentor, Quera Junior C++ Workshop (online, ages 12–16)**, *Quera*. *Jun – Aug 2020.*
 
 
-Honors & Awards
+Honors, Awards & Grants
 ======
 
 * **Graduate Herff Fellowship**, Herff College of Engineering, University of Memphis. 5 consecutive semesters, 2022–2025. Coordinator: Dr. R. Meier.
 * **2nd Place, 8th Annual EECE Department Poster Competition**, University of Memphis, 2022.
 * **[2nd Place](https://www.memphis.edu/herff/news/herff_students_place_lidar_competition.php)**, SICK LiDAR StreamEye: LiDAR Challenge across USA and Canada, Proposing Multi-UAS Visual Stream Assessment, 2025–26.
+* **Grant Recipient**, National Science & Technology Research Grant. Project: Autonomous Quad-copter with Auto-charge for Inspection of Transmission Lines. Amirkabir University, 2017.
 * **Participant**, International RoboCup Senior Soccer Small Size League (one of ~20 elite international university teams; contributed to circuit design and FPGA programming). Hefei / João Pessoa / Leipzig, 2014–2016.
 * **Participant**, International RoboCup Regional Open Senior Soccer Small Size League, 2015–16.
 * **Honors Admission**, one of the top-10 entering students in the Electrical Engineering program at Amirkabir University, 2013.
