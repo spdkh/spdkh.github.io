@@ -45,7 +45,8 @@ Skills
 ======
 
 * **Programming:** Python (Ultralytics, PyTorch, Torch-Vision, TensorFlow, NumPy, Pandas, SciPy, Scikit-learn, OpenCV, Keras), MATLAB/Simulink, C, C++, Verilog, Bash, Arduino, Qt.
-* **Deep learning:** GANs, physics-informed networks, unrolled optimization, attention mechanisms, super-resolution, image-to-image translation, multimodal models.
+* **Deep learning:** GANs, physics-informed networks, unrolled optimization, attention mechanisms, super-resolution, image-to-image translation, multimodal models, promptable and open-vocabulary models (text/box-prompted detection and segmentation), detector-segmenter pipelines, prompt-ablation studies.
+* **Edge AI & benchmarking:** NVIDIA Jetson Orin NX deployment, accuracy-latency profiling, reproducible configuration-driven evaluation.
 * **Computer vision & imaging:** feature extraction, object detection, OpenCV, ARUCO, optical-transfer-function modeling, structured illumination microscopy, camera calibration, geo-localization.
 * **Hardware & embedded:** Raspberry Pi, NVIDIA Jetson, Khadas, Pixhawk, FPGA (Xilinx ISE), CPLDs, ARM Cortex-M4 (STM32, Keil), AVR, KiCad, Altium Designer.
 * **Tools & DevOps:** Git, nixOS, Docker, Linux, LaTeX, LabVIEW, Scrum/Kanban.
@@ -74,7 +75,7 @@ Proceeding Publications and Technical Reports
 Manuscripts in Preparation
 ======
 
-* **S. P. Dajkhosh**, L. D. Poloni, X. Huang, E. L. Jacobs. *"Anait-Bench: Benchmarking Conditioning Strategies for UAV Stream Segmentation and Litter Detection."* In preparation; target: IEEE Transactions on Geoscience and Remote Sensing (TGRS).
+* **S. P. Dajkhosh**, L. D. Poloni, X. Huang, E. L. Jacobs. *"Anait-Bench: An Open-Source Framework to Benchmark Conditioned Perception, with a Case Study in UAV Stream Monitoring."* In preparation; target: IEEE Transactions on Geoscience and Remote Sensing (TGRS).
 * **S. P. Dajkhosh**, L. D. Poloni, X. Huang, E. L. Jacobs. *"Anait-Eye: A Joint Real-Time Model for Water-Mask Segmentation and Litter Detection with a UAV Stream-Corridor Dataset."* In preparation; target: IEEE Transactions on Geoscience and Remote Sensing (TGRS).
 * **S. P. Dajkhosh**, L. D. Poloni, M. Davoodi, X. Huang, E. L. Jacobs. *"StreamEye: UAV-Based Real-Time Environmental Stream Assessment."* In preparation.
 * **S. P. Dajkhosh**, O. Furxhi, C. K. Renshaw, E. Jacobs. *"TerrAInav Mapper: Aerial Imaging Feature Extraction Using Siamese Networks."* In preparation.
@@ -85,6 +86,7 @@ Research Experience
 
 * **Graduate Assistant, Doctoral Researcher**, *Remote Sensing Lab (RSL), University of Memphis*, Memphis, TN. *Aug 2023 – present*
   * **TerrAInav (Vision-Based Navigation, and Geolocalization):** multimodal field-applied research on UAVs including path planning with **Dynamic Movement Primitives (DMPs)**, SLAM, real-time water-body mapping, and multi-sensor aerial data collection; deep-learning image registration of UAV-captured aerial imagery; and geo-localization for visual stream assessment and environmental monitoring.
+  * **Anait-Bench:** open-source framework that benchmarks promptable and non-promptable detectors and segmenters, alone and as detector-segmenter pipelines, under text, box, and no-prompt conditions with uninformative-prompt controls; measures accuracy and latency on a workstation and verifies the most promising configurations on an NVIDIA Jetson Orin NX.
   * **Stack:** Python (Ultralytics, PyTorch, Torch-Vision, TensorFlow, OpenCV, etc.), MATLAB, LaTeX, nixOS, embedded systems, electrical circuit design.
 
 * **Graduate Assistant, Master's Researcher**, *Computational Imaging Research Lab (CIRL), University of Memphis*, Memphis, TN. *Aug 2021 – Jul 2023*

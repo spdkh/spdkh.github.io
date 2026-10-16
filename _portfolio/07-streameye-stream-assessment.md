@@ -15,11 +15,11 @@ Stream assessments are usually done on foot, which is slow and limited in covera
 
 - **StreamEye:** an uncrewed aerial system for real-time visual stream assessment and environmental monitoring.
 - **Anait-Eye:** a joint real-time model for **water-mask segmentation and litter detection**, trained on a new UAV stream-corridor dataset we collected.
-- **Anait-Bench:** a benchmark comparing conditioning strategies for UAV stream segmentation and litter detection.
+- **Anait-Bench:** an open-source framework that benchmarks promptable and non-promptable detectors and segmenters, alone and as detector-segmenter pipelines, under text, box, and no-prompt conditions. It measures accuracy and latency on a workstation and verifies the most promising configurations on an **NVIDIA Jetson Orin NX**.
 - **Multi-UAS LiDAR proposal:** our StreamEye proposal for multi-UAS visual stream assessment placed
   [**2nd in the SICK LiDAR Challenge**](https://www.memphis.edu/herff/news/herff_students_place_lidar_competition.php) across the USA and Canada (2025–26).
 
-**Stack:** Python (Ultralytics, PyTorch, OpenCV), UAV field data collection, embedded systems.
+**Stack:** Python (Ultralytics, PyTorch, OpenCV), promptable / open-vocabulary detection and segmentation, NVIDIA Jetson Orin NX, UAV field data collection, embedded systems.
 
 **Outputs**
 - SPIE Defense + Security 2026: *Vision-Based Uncrewed Aerial System for Real-Time Stream Assessment and Environmental Monitoring*.
