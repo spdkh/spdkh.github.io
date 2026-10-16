@@ -27,7 +27,7 @@ Beyond research I've spent **8+ years teaching** programming and engineering to 
 - **Herff Fellowship**, 5 consecutive semesters (2022--2025), graduate research assistantship.
 - **[2nd place](https://www.memphis.edu/herff/news/herff_students_place_lidar_competition.php)**, SICK LiDAR StreamEye: LiDAR Challenge across USA and Canada, 2025--26.
 - **2nd place**, 8th Annual ECE Department Poster Competition, UoM (2022).
-- **Robotics competitions & awards since 2010**: RoboCup Brazil 2014, China 2015, International 2014--16, AUTCUP 1st place 2016.
+- **Robotics competitions & awards since 2010**: RoboCup Brazil 2014, China 2015, International 2014--16.
 - **Top 0.2%** (rank 609) in the national university entrance exam; honors admission to the BSc program at Amirkabir University of Technology (Tehran Polytechnic).
 
 <figure style="float:right; margin: 0 0 1em 1.5em; width:200px; text-align:center;">
