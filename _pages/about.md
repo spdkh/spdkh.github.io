@@ -20,7 +20,7 @@ I'm a PhD candidate in Electrical & Computer Engineering at the **University of 
 
 ## Teaching
 
-Beyond research I've spent **8+ years teaching** programming and engineering to students from middle school through graduate level. I taught MATLAB as sole instructor for **EECE 2207: Engineering Mathematics Applications** (UoM, 2024--25), TA'd at **Neuromatch Academy's** Computational Neuroscience and Deep Learning summer schools (2021), and mentored undergraduates in the UoM **Virtually Integrated Program** since 2022.
+Beyond research I've spent **8+ years teaching** programming and engineering to students from middle school through graduate level. I taught MATLAB as sole instructor for **EECE 2207: Engineering Mathematics Applications** (UoM, 2024--25), TA'd at **Neuromatch Academy's** Computational Neuroscience and Deep Learning summer schools (2021), and mentored undergraduates in the UoM **Vertically Integrated Projects** since 2022.
 
 ## A few numbers
 

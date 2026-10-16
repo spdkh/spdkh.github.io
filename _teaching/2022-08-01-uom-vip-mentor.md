@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Mentor, Virtually Integrated Program (VIP)"
+title: "Undergraduate Mentor, Vertically Integrated Projects (VIP)"
 collection: teaching
 type: "Undergraduate research mentor"
 permalink: /teaching/2022-uom-vip-mentor
@@ -10,7 +10,7 @@ location: "Memphis, TN, USA"
 
 **Aug 2022 – present** &middot; Continual, in collaboration with **Dr. S. Ivey** and **Dr. E. Jacobs**.
 
-I mentor undergraduates individually and in teams of 4--6 through the University of Memphis Virtually Integrated Program (VIP), where students earn credit for contributing to active faculty research.
+I mentor undergraduates individually and in teams of 4--6 through the University of Memphis Vertically Integrated Projects (VIP), where students earn credit for contributing to active faculty research.
 
 **What I cover with mentees:**
 

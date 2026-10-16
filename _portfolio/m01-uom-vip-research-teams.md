@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Research Teams, Virtually Integrated Program (VIP)"
+title: "Undergraduate Research Teams, Vertically Integrated Projects (VIP)"
 excerpt: "Mentoring undergraduates individually and in teams of 4–6 on faculty research projects: research methods, paper reading and writing, Python and MATLAB, electronics, and 3D mechanical design and fabrication."
 collection: portfolio
 group: mentored
