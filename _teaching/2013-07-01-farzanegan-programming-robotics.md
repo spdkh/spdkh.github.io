@@ -5,12 +5,12 @@ type: "Middle-school teacher"
 permalink: /teaching/2013-farzanegan-programming-robotics
 venue: "National Organization for Development of Exceptional Talents (NODET), Farzanegan 1"
 date: 2013-07-01
-location: "Tehran, Iran"
+location: "Tehran"
 ---
 
 **Jul 2013 – May 2021** &middot; ~8 years.
 
-I taught **programming and robotics** to gifted middle-school students at one of Iran's most selective NODET schools.
+I taught **programming and robotics** to gifted middle-school students at one of the most selective NODET schools.
 
 **Programming track:**
 - Languages: Python, C, C++, Qt, Small Basic, Scratch.

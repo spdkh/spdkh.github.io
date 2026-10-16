@@ -5,7 +5,7 @@ type: "University TA / workshop instructor"
 permalink: /teaching/2018-aut-fpga-comp-intelligence
 venue: "Amirkabir University of Technology (Tehran Polytechnic)"
 date: 2018-01-01
-location: "Tehran, Iran"
+location: "Tehran"
 ---
 
 **Jan 2018 – Aug 2019.**

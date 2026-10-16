@@ -5,7 +5,7 @@ type: "Workshop instructor"
 permalink: /teaching/2020-sharif-python-workshop
 venue: "Sharif University of Technology, Business Summer School"
 date: 2020-06-01
-location: "Tehran, Iran (online)"
+location: "Tehran (online)"
 ---
 
 **Jun 2020.**

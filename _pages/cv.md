@@ -19,7 +19,7 @@ PhD candidate in Electrical & Computer Engineering at the **University of Memphi
 
 
 * **Experience:** 5 yrs graduate research (UoM CIRL & RSL) · 1 yr industry R&D (Part AI) · 8+ yrs teaching programming & robotics · 9+ yrs international robotics competitions and achievements.
-* **Recognition:** Herff Fellowship, fully funded 5 consecutive semesters (2022–25) · 2nd place, National Sick LiDAR Competition (2026) · Grant for autonomous UAV transmission-line inspection (2017).
+* **Recognition:** Herff Fellowship, fully funded 5 consecutive semesters (2022–25) · 2nd place, National Sick LiDAR Competition (2026).
 * **Stack:** Python (Ultralytics, PyTorch, TensorFlow, Keras, Scipy, NumPy, Scikit-learn, OpenCV), MATLAB/Simulink, C/C++, Verilog, FPGA, embedded systems, Linux, Git, LaTeX, nixOS, Electrical Circuit Design.
 
 
@@ -32,10 +32,10 @@ Education
 * **M.Sc., Electrical & Computer Engineering**, University of Memphis, Memphis, TN. *Aug 2021 – Jul 2023.* Concentration: Computer Engineering. Fully funded. GPA: **3.96/4.00**. Advisor: Dr. C. Preza. Thesis: *Image Reconstruction for Structured Illumination Microscopy using Physics-Guided DNNs (UPIGAN, Unrolled Physics-Informed GAN).*
   * **Selected courses:** Neural Networks, Random Signals and Noise, Image Processing, Data Mining, Multimedia Systems, Artificial Intelligence, Advanced Machine Learning.
 
-* **B.Sc., Electrical Engineering (Concentration in Control Engineering)**, Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran. *Sep 2013 – Feb 2018.* Privileged Entry (one of the top-10 entry students in the program). Thesis: *Indoor Autonomous Landing of a Quadrotor with Video Processing.* Advisor: Dr. F. Abdollahi.
+* **B.Sc., Electrical Engineering (Concentration in Control Engineering)**, Amirkabir University of Technology (Tehran Polytechnic), Tehran. *Sep 2013 – Feb 2018.* Privileged Entry (one of the top-10 entry students in the program). Thesis: *Indoor Autonomous Landing of a Quadrotor with Video Processing.* Advisor: Dr. F. Abdollahi.
   * **Selected courses:** Linear Algebra, Advanced Programming, Computational Intelligence, Control of Linear Systems, Digital Control, Modern Control, Signals & Systems, Computer Architecture.
 
-<!-- * **Diploma, Mathematics & Physics**, Farzanegan 1 School, NODET (National Organization for Development of Exceptional Talents), Tehran, Iran. *Sep 2006 – Jul 2013.* GPA: 4.0/4.0. Ranked **609 (top 0.2%)** in the Iranian nationwide university entrance exam. -->
+<!-- * **Diploma, Mathematics & Physics**, Farzanegan 1 School, NODET (National Organization for Development of Exceptional Talents), Tehran. *Sep 2006 – Jul 2013.* GPA: 4.0/4.0. Ranked **609 (top 0.2%)** in the nationwide university entrance exam. -->
 
 
 
@@ -140,18 +140,17 @@ A complete list is on the [Teaching page](/teaching/).
 * **Private Tutoring**, since 2011: Python, MATLAB, C++, machine learning, ICDL.
 
 
-Honors, Awards & Grants
+Honors & Awards
 ======
 
 * **Graduate Herff Fellowship**, Herff College of Engineering, University of Memphis. *5 consecutive semesters, 2022–2025.* Coordinator: Dr. R. Meier.
 * **2nd Place, 8th Annual ECE Department Poster Competition**, University of Memphis, 2022.
 * **[2nd Place](https://www.memphis.edu/herff/news/herff_students_place_lidar_competition.php)**, *SICK LiDAR StreamEye: LiDAR Challenge across USA and Canada, Proposing Multi-UAS Visual Stream Assessment*, 2025–26.
-* **Grant Recipient**, Presidential Scientific & Technological Vice-Presidency. Project: *autonomous quad-copter with auto-charge for inspection of transmission lines.* Amirkabir University, 2017.
 * **Participant**, *International RoboCup Senior Soccer Small Size League* (one of ~20 elite international university teams; contributed to circuit design and FPGA programming.) Hefei, China/ João Pessoa, Brazil/ Leipzig, Germany, 2014-2016.
-* **Participant**, *International RoboCup IranOpen Senior Soccer Small Size League*, 2015–16.
+* **Participant**, *International RoboCup Regional Open Senior Soccer Small Size League*, 2015–16.
 * **Privileged Entry**, one of the top-10 entry students in the Electrical Engineering program at Amirkabir University, 2013.
-* **Ranked 609 (top 0.2%)**, Iranian nationwide university entrance exam, 2013.
-* **3rd Place**, *International RoboCup IranOpen Junior Soccer 2×2 Lightweight Robots*, 2012.
+* **Ranked 609 (top 0.2%)**, Nationwide university entrance exam, 2013.
+* **3rd Place**, *International RoboCup Regional Open Junior Soccer 2×2 Lightweight Robots*, 2012.
 * **4th Place**, *International RoboCup Junior Soccer 2×2 Robots*, Istanbul, Turkey, 2011 (Individual & Super-team leagues; oral and poster presentation).
 * **1st Place**, *Highly prestigious National Khwarizmi Competition Junior Soccer Robots*, Amirkabir University, 2010.
 
@@ -215,22 +214,3 @@ Languages
 * **Persian**: native.
 * **English**: professional (GRE Verbal 144/170, AWA 4.0).
 * **French**, **Arabic**: intermediate.
-
-
-References
-======
-
-Available on request. Selected referees include:
-
-1. **Dr. E. Jacobs**, Professor, Herff College of Engineering, ECE Dept., University of Memphis· *eljacobs@memphis.edu*
-2. **Dr. A. Ramirez**, Research Assistant Professor, Herff College of Engineering, ECE Dept., University of Memphis · *ajramirz@memphis.edu*
-3. **Dr. M. Davoodi**, Assistant Professor, Herff College of Engineering, ECE Dept., University of Memphis · *mdavoodi@memphis.edu*
-4. **Dr. A. Robinson**, Associate Professor, Herff College of Engineering, ECE Dept., University of Memphis · *alrobins@memphis.edu*
-<!-- 5. **Dr. O. Furxhi**, True Colors Infrared Imaging· *ofurxhi@memphis.edu* -->
-5. **Dr. C. Van**, founder of MakeScope (UoM × Epicenter Patents-to-Products) · *van.congtuanson@gmail.com*
-<!-- 6. **Prof. S. Ivey**, Associate Dean for Research, Herff College of Engineering, Civil Engineering, University of Memphis · *ssalyers@memphis.edu*
-7. **Dr. R. Meier**, Associate Professor & Graduate Coordinator, Herff College of Engineering, Civil Engineering, University of Memphis · *rwmeier@memphis.edu*
-8. **Dr. F. Abdollahi**, Associate Professor, EE (Control), Amirkabir University of Technology · *f_abdollahi@aut.ac.ir*
-9. **Dr. M. Khosravi**, Assistant Professor, EE (Control), Amirkabir University of Technology · *m.a.khosravi@aut.ac.ir*
-10. **Dr. Kh. Borhani**, Assistant Professor, Cognitive Neuroscience; group leader, Social and Cognitive Neuroscience, Institute for Cognitive and Brain Sciences, Shahid Beheshti University · *kh_borhani@sbu.ac.ir* -->
-<!-- 11. **Dr. Th. P. Watson** -->

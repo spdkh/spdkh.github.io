@@ -1,17 +1,26 @@
 ---
-title: "Vision-Based UAV Navigation from Aerial Imagery"
-excerpt: "PhD research on multimodal image translation, geo-localization, and robust perception for autonomous flight from drone-captured imagery."
+title: "TerrAInav: Vision-Based UAV Navigation and Geo-Localization"
+excerpt: "PhD dissertation: deep-learning aerial feature mapping, geo-localization, SLAM, and Dynamic Movement Primitive path planning for UAVs flying under tree canopies to collect stream data."
 collection: portfolio
+group: mine
+order: 2
+period: "Aug 2023 – present"
+role: "Lead researcher · Ph.D. dissertation"
 ---
 
-**PhD project · University of Memphis Jacobs Lab · Aug 2023 – present.**
+**Ph.D. dissertation · Remote Sensing Lab (RSL), University of Memphis · Aug 2023 – present.**
+**Role:** Lead researcher and first author. Advisor: Dr. E. Jacobs.
 
-Building deep-learning systems for **vision-based navigation** of UAVs operating purely on captured aerial imagery, no GPS assumed. Sub-problems:
+*TerrAInav: Vision-AI-Based UAV Navigation, SLAM, and Geo-Localization for Environmental Monitoring.* The goal is a UAV that can localize itself and plan its path from what its camera sees, and fly reliably in the places where environmental data is collected: along streams, under tree canopies, with weak or no GPS.
 
-- **Cross-modal image translation** (e.g. RGB ↔ infrared / SAR-like representations) for invariance to lighting and weather.
-- **Visual geo-localization**, matching live drone frames against pre-built reference maps.
-- **Robust perception under domain shift**, degraded sensors, motion blur, and unfamiliar terrain.
+- **TerrAInav Mapper (aerial feature mapping):** Siamese deep networks that extract and match features between live UAV frames and satellite / reference imagery, for image registration and visual geo-localization.
+- **Path planning under canopies:** **Dynamic Movement Primitives (DMPs)** that generate smooth, adaptable trajectories for collecting stream data through tree canopies.
+- **SLAM and real-time mapping:** real-time water-body mapping and multi-sensor aerial data collection in the field.
+- **Simulation:** trained and evaluated with [TerrAInav Sim](/portfolio/06-terrainav-sim/), our open-source aerial imaging simulator.
 
-**Stack:** PyTorch, MATLAB, multimodal DNNs, Linux, Git.
+**Stack:** Python (PyTorch, TensorFlow, Ultralytics, OpenCV), MATLAB, nixOS, embedded systems, electrical circuit design.
 
-Currently competing in the **SICK LiDAR StreamEye Multi-UAS Visual Stream Assessment Challenge (2025–26)**.
+**Outputs**
+- SPIE Defense + Commercial Sensing 2024: *Aerial Image Feature Mapping using Deep Neural Networks* ([doi](https://doi.org/10.1117/12.3013037)).
+- SPIE Defense + Commercial Sensing 2025: *UAV Navigation for Stream Data Collection Through Tree Canopies Using Dynamic Motion Primitives*.
+- *TerrAInav Mapper: Aerial Imaging Feature Extraction Using Siamese Networks*, journal paper in preparation.

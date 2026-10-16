@@ -5,7 +5,7 @@ type: "Mentor (online)"
 permalink: /teaching/2020-quera-junior-cpp
 venue: "Quera Junior C++ Workshop"
 date: 2020-08-01
-location: "Online, Iran"
+location: "Online"
 ---
 
 **Jun – Aug 2020.**

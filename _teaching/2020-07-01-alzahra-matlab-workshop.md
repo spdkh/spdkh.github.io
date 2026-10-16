@@ -5,7 +5,7 @@ type: "Workshop instructor"
 permalink: /teaching/2020-alzahra-matlab-workshop
 venue: "Al Zahra University, Science Students Council, EE Dept."
 date: 2020-07-01
-location: "Tehran, Iran"
+location: "Tehran"
 ---
 
 **Jul – Aug 2020.**

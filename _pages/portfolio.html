@@ -5,10 +5,35 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-A small selection of projects that I'm most proud of,research, industry, and undergrad.
-
 {% include base_path %}
 
-{% for post in site.portfolio %}
+Projects across my Ph.D. and M.Sc. research, industry R&D, and undergraduate robotics work. Each entry lists my role, so it is clear which projects I led and which I contributed to. For the full record, see my <a href="{{ base_path }}/cv/">CV</a>.
+
+<h2 id="my-projects">My Projects</h2>
+
+{% assign my_projects = site.portfolio | where: "group", "mine" | sort: "order" %}
+{% for post in my_projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h3 id="more-projects">More projects</h3>
+
+<ul>
+  <li><strong>Independent study: deep-learning architectures for microscopy image restoration</strong>: review and re-implementation of several state-of-the-art architectures and datasets in PyTorch / Keras. (A, 2022)</li>
+  <li><strong>Camera calibration and virtual image dimension estimation</strong>: projection-matrix-based reconstruction in Python / OpenCV, Digital Image Processing. (A, 2022)</li>
+  <li><strong>Fake-review classification</strong>: neural networks, random forests, and logistic regression on Amazon product reviews in Python (Scikit-learn, Keras), Machine Learning. (A, 2022)</li>
+  <li><strong>Physics-guided deep learning for image restoration</strong>: literature review and a SIM simulation toolkit in MATLAB. (A, 2021)</li>
+  <li><strong>Wireless UGV and flexible-arm control</strong>: IoT system with Raspberry Pi, Wi-Fi, and Arduino. (A+, 2017)</li>
+  <li><strong>FDTD electromagnetic-wave GUI</strong>: C++ / Python with Qt Creator. (2017)</li>
+  <li><strong>Fuzzy control of an autonomous car</strong>: modeling and fuzzy-logic controller in MATLAB, under Dr. F. Abdollahi. (A, 2016)</li>
+  <li><strong>Embedded systems trio</strong>: full implementations on a CPLD (Verilog / Xilinx ISE), an ARM Cortex-M4 (Keil / STM32Cube), and an AVR ATmega16; three courses, all A+. (2015, 2017)</li>
+</ul>
+
+<h2 id="mentored-projects">Projects I Have Mentored</h2>
+
+<p>Projects where I guided students or mentees; the work is theirs, and my role was teaching, supervising, and coaching.</p>
+
+{% assign mentored_projects = site.portfolio | where: "group", "mentored" | sort: "order" %}
+{% for post in mentored_projects %}
   {% include archive-single.html %}
 {% endfor %}
